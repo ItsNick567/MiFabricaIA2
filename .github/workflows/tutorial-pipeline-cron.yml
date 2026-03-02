@@ -22,7 +22,7 @@ jobs:
     env:
       PYTHONUNBUFFERED: "1"
       PYTHONUTF8: "1"
-      TZ: America/Santiago
+      TZ: America/New_York
 
       GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
       GROQ_MODEL: ${{ secrets.GROQ_MODEL }}
@@ -42,9 +42,9 @@ jobs:
       FORCE_ENGLISH: "true"
       DEFAULT_LANGUAGE: "en"
       AUTO_GENERATE_PER_DAY: "3"
-      AUTO_PUBLISH_TIMES: "09:00,14:00,20:00"
-      TRENDS_UPDATE_HOUR: "2"
-      PIPELINE_TIMEZONE: "America/Santiago"
+      AUTO_PUBLISH_TIMES: "09:00,13:00,18:00"
+      TRENDS_UPDATE_HOUR: "06"
+      PIPELINE_TIMEZONE: "America/New_York"
       CRON_WINDOW_MINUTES: "59"
       TREND_SOURCES: "devto,hashnode,github,reddit"
       LOG_LEVEL: "INFO"
