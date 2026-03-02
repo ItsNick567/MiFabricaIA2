@@ -1,13 +1,37 @@
 {
   "processed_topics": [
-    "getting started with everything-claude-code",
-    "getting started with openclaw"
+    "claude code"
   ],
   "cron_markers": [
     "2026-03-02|publish|09",
     "2026-03-02|publish|13",
+    "2026-03-02|publish|18",
     "2026-03-02|trends|02",
     "2026-03-02|trends|06"
   ],
-  "updated_at": "2026-03-02T13:01:33.224578"
+  "required_platforms": [
+    "devto",
+    "hashnode",
+    "blogger",
+    "telegram"
+  ],
+  "topic_publications": {
+    "openclaw": {
+      "topic": "Getting Started with openclaw",
+      "title": "Introduction",
+      "tutorial_id": "20260302_185459_e8ce8b",
+      "platforms_success": [
+        "blogger",
+        "devto",
+        "hashnode"
+      ],
+      "urls": {
+        "devto": "https://dev.to/autonomousworld/introduction-28co",
+        "hashnode": "https://autonomousworld.hashnode.dev/introduction",
+        "blogger": "https://autonomousworlddev.blogspot.com/2026/03/introduction.html"
+      },
+      "updated_at": "2026-03-02T18:55:07.021094"
+    }
+  },
+  "updated_at": "2026-03-02T18:55:07.036100"
 }
