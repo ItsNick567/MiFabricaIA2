@@ -5,7 +5,7 @@ from __future__ import annotations
 import argparse
 import json
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 from typing import Any, Dict, List
 from zoneinfo import ZoneInfo
 
@@ -31,19 +31,44 @@ class AutonomousPipeline:
         self.category = category
         self.state_file = p("data", "autonomous_state.json")
         self.processed_topics = self._load_processed_topics()
+        self.cron_markers = self._load_cron_markers()
 
-    def _load_processed_topics(self) -> set[str]:
+    def _load_state_payload(self) -> Dict[str, Any]:
         try:
             with open(self.state_file, "r", encoding="utf-8") as handle:
                 payload = json.load(handle)
-            topics = payload.get("processed_topics", []) if isinstance(payload, dict) else []
-            return {str(topic).strip().lower() for topic in topics if str(topic).strip()}
+            return payload if isinstance(payload, dict) else {}
         except Exception:
-            return set()
+            return {}
 
-    def _save_processed_topics(self) -> None:
+    def _load_processed_topics(self) -> set[str]:
+        payload = self._load_state_payload()
+        topics = payload.get("processed_topics", [])
+        return {str(topic).strip().lower() for topic in topics if str(topic).strip()}
+
+    def _load_cron_markers(self) -> set[str]:
+        payload = self._load_state_payload()
+        markers = payload.get("cron_markers", [])
+        return {str(marker).strip() for marker in markers if str(marker).strip()}
+
+    def _prune_cron_markers(self, keep_days: int = 14) -> None:
+        threshold = datetime.now() - timedelta(days=max(1, keep_days))
+        kept: set[str] = set()
+        for marker in self.cron_markers:
+            date_text = marker.split("|", 1)[0]
+            try:
+                slot_date = datetime.strptime(date_text, "%Y-%m-%d")
+            except ValueError:
+                continue
+            if slot_date >= threshold:
+                kept.add(marker)
+        self.cron_markers = kept
+
+    def _save_state(self) -> None:
+        self._prune_cron_markers()
         payload = {
             "processed_topics": sorted(self.processed_topics),
+            "cron_markers": sorted(self.cron_markers),
             "updated_at": datetime.now().isoformat(),
         }
         with open(self.state_file, "w", encoding="utf-8") as handle:
@@ -140,7 +165,7 @@ class AutonomousPipeline:
                 update_analytics(updated_tutorial, results)
 
                 self.processed_topics.add(key)
-                self._save_processed_topics()
+                self._save_state()
 
                 logger.info("Autonomous publish completed topic=%s success=%s", topic, successful_platforms)
                 return {
@@ -197,6 +222,21 @@ class AutonomousPipeline:
         window = max(1, int(settings.CRON_WINDOW_MINUTES))
         return int(now.minute) < window
 
+    def _slot_marker(self, now: datetime, job: str, hour: int) -> str:
+        return f"{now.strftime('%Y-%m-%d')}|{job}|{int(hour):02d}"
+
+    def _slot_due(self, now: datetime, hour: int, job: str) -> bool:
+        marker = self._slot_marker(now, job=job, hour=hour)
+        if marker in self.cron_markers:
+            return False
+        target = now.replace(hour=int(hour), minute=0, second=0, microsecond=0)
+        return now >= target
+
+    def _mark_slot_done(self, now: datetime, hour: int, job: str) -> None:
+        marker = self._slot_marker(now, job=job, hour=hour)
+        self.cron_markers.add(marker)
+        self._save_state()
+
     def _run_cron_dispatch(self) -> Dict[str, Any]:
         now = datetime.now(ZoneInfo(settings.PIPELINE_TIMEZONE))
         if not self._is_in_cron_window(now):
@@ -206,15 +246,21 @@ class AutonomousPipeline:
         actions: List[str] = []
         results: Dict[str, Any] = {}
 
-        publish_hours = self._publish_hours()
+        publish_hours = sorted(self._publish_hours())
         trends_hour = int(settings.TRENDS_UPDATE_HOUR)
 
-        if now.hour == trends_hour:
+        if self._slot_due(now=now, hour=trends_hour, job="trends"):
             actions.append("trends")
             results["trends"] = self.daily_analysis()
-        if now.hour in publish_hours:
+            self._mark_slot_done(now=now, hour=trends_hour, job="trends")
+
+        due_publish_slots = [hour for hour in publish_hours if self._slot_due(now=now, hour=hour, job="publish")]
+        if due_publish_slots:
+            selected_slot = due_publish_slots[0]
             actions.append("publish")
             results["publish"] = self.generate_and_publish()
+            self._mark_slot_done(now=now, hour=selected_slot, job="publish")
+            results["publish_slot_hour"] = selected_slot
 
         if not actions:
             logger.info("Cron dispatch no matching jobs local_hour=%s", now.hour)
