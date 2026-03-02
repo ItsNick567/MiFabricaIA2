@@ -5,6 +5,9 @@ on:
     - cron: "5 * * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 concurrency:
   group: tutorial-pipeline-cron
   cancel-in-progress: false
@@ -69,6 +72,19 @@ jobs:
 
       - name: Run autonomous one-shot cron dispatcher
         run: python autonomous_pipeline.py --once --job cron
+
+      - name: Persist autonomous state
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/autonomous_state.json
+          if git diff --cached --quiet; then
+            echo "No autonomous state changes to commit."
+          else
+            git commit -m "chore: update autonomous state [skip ci]"
+            git push
+          fi
 
       - name: Upload runtime artifacts
         if: always()

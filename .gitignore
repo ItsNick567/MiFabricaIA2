@@ -33,3 +33,4 @@ venv/
 # Keep project structure files if manually added later
 !*/data/.gitkeep
 !*/logs/.gitkeep
+!tutorial_pipeline_v2/data/autonomous_state.json
