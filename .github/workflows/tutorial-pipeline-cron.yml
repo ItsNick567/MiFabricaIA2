@@ -45,7 +45,7 @@ jobs:
       AUTO_PUBLISH_TIMES: "09:00,14:00,20:00"
       TRENDS_UPDATE_HOUR: "2"
       PIPELINE_TIMEZONE: "America/Santiago"
-      CRON_WINDOW_MINUTES: "20"
+      CRON_WINDOW_MINUTES: "59"
       TREND_SOURCES: "devto,hashnode,github,reddit"
       LOG_LEVEL: "INFO"
 
