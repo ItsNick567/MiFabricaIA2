@@ -75,7 +75,14 @@ class AutonomousPipeline:
     def _load_processed_topics(self) -> set[str]:
         payload = self._load_state_payload()
         topics = payload.get("processed_topics", [])
-        return {str(topic).strip().lower() for topic in topics if str(topic).strip()}
+        normalized: set[str] = set()
+        for topic in topics:
+            raw = str(topic).strip()
+            if not raw:
+                continue
+            canonical = self._topic_key(raw)
+            normalized.add(canonical or raw.lower())
+        return normalized
 
     def _load_topic_publications(self) -> Dict[str, Dict[str, Any]]:
         payload = self._load_state_payload()
