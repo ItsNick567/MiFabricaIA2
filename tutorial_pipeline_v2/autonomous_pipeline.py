@@ -256,11 +256,28 @@ class AutonomousPipeline:
 
         due_publish_slots = [hour for hour in publish_hours if self._slot_due(now=now, hour=hour, job="publish")]
         if due_publish_slots:
-            selected_slot = due_publish_slots[0]
             actions.append("publish")
-            results["publish"] = self.generate_and_publish()
-            self._mark_slot_done(now=now, hour=selected_slot, job="publish")
-            results["publish_slot_hour"] = selected_slot
+            publish_results: List[Dict[str, Any]] = []
+            for slot_hour in due_publish_slots:
+                slot_result = self.generate_and_publish()
+                self._mark_slot_done(now=now, hour=slot_hour, job="publish")
+
+                no_topics = (
+                    not slot_result.get("success")
+                    and str(slot_result.get("error", "")).lower() == "no publishable topics available"
+                )
+                if no_topics:
+                    slot_result["success"] = True
+                    slot_result["skipped"] = True
+                    slot_result["reason"] = "no_publishable_topics"
+                    slot_result["slot_hour"] = slot_hour
+                    publish_results.append(slot_result)
+                    break
+
+                slot_result["slot_hour"] = slot_hour
+                publish_results.append(slot_result)
+
+            results["publish"] = publish_results
 
         if not actions:
             logger.info("Cron dispatch no matching jobs local_hour=%s", now.hour)
