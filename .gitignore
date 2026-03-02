@@ -1,0 +1,35 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment / secrets
+.env
+*.env
+!.env.example
+
+# Runtime outputs
+*/logs/*.log
+*/cache/
+*/analytics/
+*/history/
+*/tutorials_generated/
+*/data/*.json
+*/data/*.csv
+
+# Keep project structure files if manually added later
+!*/data/.gitkeep
+!*/logs/.gitkeep

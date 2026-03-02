@@ -1,0 +1,80 @@
+name: Tutorial Pipeline Cron
+
+on:
+  schedule:
+    - cron: "5 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: tutorial-pipeline-cron
+  cancel-in-progress: false
+
+jobs:
+  run-autonomous-cron:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    defaults:
+      run:
+        working-directory: tutorial_pipeline_v2
+    env:
+      PYTHONUNBUFFERED: "1"
+      PYTHONUTF8: "1"
+      TZ: America/Santiago
+
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      GROQ_MODEL: ${{ secrets.GROQ_MODEL }}
+      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+
+      DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
+      HASHNODE_API_KEY: ${{ secrets.HASHNODE_API_KEY }}
+      HASHNODE_PUBLICATION_ID: ${{ secrets.HASHNODE_PUBLICATION_ID }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+      BLOGGER_ACCESS_TOKEN: ${{ secrets.BLOGGER_ACCESS_TOKEN }}
+      BLOGGER_REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
+      BLOGGER_BLOG_ID: ${{ secrets.BLOGGER_BLOG_ID }}
+      BLOGGER_CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
+      BLOGGER_CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
+
+      FORCE_ENGLISH: "true"
+      DEFAULT_LANGUAGE: "en"
+      AUTO_GENERATE_PER_DAY: "3"
+      AUTO_PUBLISH_TIMES: "09:00,14:00,20:00"
+      TRENDS_UPDATE_HOUR: "2"
+      PIPELINE_TIMEZONE: "America/Santiago"
+      CRON_WINDOW_MINUTES: "20"
+      TREND_SOURCES: "devto,hashnode,github,reddit"
+      LOG_LEVEL: "INFO"
+
+      SPONSOR_CTA_ENABLED: "true"
+      BUSINESS_CONTACT_EMAIL: ${{ secrets.BUSINESS_CONTACT_EMAIL }}
+      SPONSORSHIP_PAGE_URL: ${{ secrets.SPONSORSHIP_PAGE_URL }}
+      NEWSLETTER_URL: ${{ secrets.NEWSLETTER_URL }}
+      COMMUNITY_URL: ${{ secrets.COMMUNITY_URL }}
+      SPONSOR_CTA_TEXT: "Want weekly practical tutorials and collaboration opportunities?"
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: tutorial_pipeline_v2/requirements.txt
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Run autonomous one-shot cron dispatcher
+        run: python autonomous_pipeline.py --once --job cron
+
+      - name: Upload runtime artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: tutorial-pipeline-data
+          path: |
+            tutorial_pipeline_v2/logs/
+            tutorial_pipeline_v2/data/

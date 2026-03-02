@@ -1,0 +1,22 @@
+Subject: Sponsorship Opportunity - Autonomous World Dev
+
+Hi {{name}},
+
+I run Autonomous World Dev, a technical content channel focused on practical AI + automation tutorials for developers.
+I came across {{company}} ({{website}}) and I think there is a strong audience fit.
+
+I would like to propose a sponsorship collaboration for your product:
+- 1 in-depth tutorial post
+- distribution on Hashnode + Dev.to + Blogger + Telegram
+- clear sponsored disclosure
+
+Audience fit:
+- developers (beginner to intermediate)
+- high interest in implementation tutorials and dev tooling
+
+If useful, I can send a simple package with deliverables, timeline, and pricing.
+
+Best,
+Nico
+nico.ai.studio@gmail.com
+https://autonomousworld.hashnode.dev
