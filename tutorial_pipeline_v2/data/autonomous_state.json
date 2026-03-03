@@ -1,13 +1,14 @@
 {
   "processed_topics": [
-    "claude code"
+    "claudecode"
   ],
   "cron_markers": [
     "2026-03-02|publish|09",
     "2026-03-02|publish|13",
     "2026-03-02|publish|18",
     "2026-03-02|trends|02",
-    "2026-03-02|trends|06"
+    "2026-03-02|trends|06",
+    "2026-03-03|trends|06"
   ],
   "required_platforms": [
     "devto",
@@ -33,5 +34,5 @@
       "updated_at": "2026-03-02T18:55:07.021094"
     }
   },
-  "updated_at": "2026-03-02T18:55:07.036100"
+  "updated_at": "2026-03-03T06:53:08.429292"
 }
