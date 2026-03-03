@@ -7,6 +7,7 @@
     "2026-03-02|trends|02",
     "2026-03-02|trends|06",
     "2026-03-03|publish|09",
+    "2026-03-03|publish|13",
     "2026-03-03|trends|06"
   ],
   "required_platforms": [
@@ -18,8 +19,8 @@
   "topic_publications": {
     "openclaw": {
       "topic": "Getting Started with openclaw",
-      "title": "Introduction to openclaw",
-      "tutorial_id": "20260303_093345_c8f8b7",
+      "title": "Introduction to OpenCLAW",
+      "tutorial_id": "20260303_144745_21d7e3",
       "platforms_success": [
         "blogger",
         "devto",
@@ -30,12 +31,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/introduction",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/introduction.html"
       },
-      "updated_at": "2026-03-03T09:33:50.529762"
+      "updated_at": "2026-03-03T14:47:50.366061"
     },
     "claudecode": {
       "topic": "Getting Started with everything-claude-code",
       "title": "Getting started with everything-claude-code can be an exciting and rewarding experience, especially for beginner to intermediate developers.",
-      "tutorial_id": "20260303_093355_5e97ab",
+      "tutorial_id": "20260303_144753_c79ef7",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -44,8 +45,22 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-everything-claude-code-can-be-an-exciting-and-rewarding-experience-especially-for-beginner-to-intermediate-developers",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-everything-claude.html"
       },
-      "updated_at": "2026-03-03T09:34:07.068520"
+      "updated_at": "2026-03-03T14:48:03.345576"
+    },
+    "uiuxpromaxskill": {
+      "topic": "Getting Started with ui-ux-pro-max-skill",
+      "title": "Getting started with ui-ux-pro-max-skill can be a daunting task, especially for beginner to intermediate developers. UI/UX design is a cruci",
+      "tutorial_id": "20260303_144807_d9d24b",
+      "platforms_success": [
+        "blogger",
+        "hashnode"
+      ],
+      "urls": {
+        "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-ui-ux-pro-max-skill-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-uiux-design-is-a-cruci",
+        "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-ui-ux-pro-max.html"
+      },
+      "updated_at": "2026-03-03T14:48:18.434975"
     }
   },
-  "updated_at": "2026-03-03T09:34:07.068947"
+  "updated_at": "2026-03-03T14:48:18.435525"
 }
