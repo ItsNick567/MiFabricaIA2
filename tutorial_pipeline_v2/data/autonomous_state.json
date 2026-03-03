@@ -1,13 +1,12 @@
 {
-  "processed_topics": [
-    "claudecode"
-  ],
+  "processed_topics": [],
   "cron_markers": [
     "2026-03-02|publish|09",
     "2026-03-02|publish|13",
     "2026-03-02|publish|18",
     "2026-03-02|trends|02",
     "2026-03-02|trends|06",
+    "2026-03-03|publish|09",
     "2026-03-03|trends|06"
   ],
   "required_platforms": [
@@ -19,8 +18,8 @@
   "topic_publications": {
     "openclaw": {
       "topic": "Getting Started with openclaw",
-      "title": "Introduction",
-      "tutorial_id": "20260302_185459_e8ce8b",
+      "title": "Introduction to openclaw",
+      "tutorial_id": "20260303_093345_c8f8b7",
       "platforms_success": [
         "blogger",
         "devto",
@@ -31,8 +30,22 @@
         "hashnode": "https://autonomousworld.hashnode.dev/introduction",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/introduction.html"
       },
-      "updated_at": "2026-03-02T18:55:07.021094"
+      "updated_at": "2026-03-03T09:33:50.529762"
+    },
+    "claudecode": {
+      "topic": "Getting Started with everything-claude-code",
+      "title": "Getting started with everything-claude-code can be an exciting and rewarding experience, especially for beginner to intermediate developers.",
+      "tutorial_id": "20260303_093355_5e97ab",
+      "platforms_success": [
+        "blogger",
+        "hashnode"
+      ],
+      "urls": {
+        "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-everything-claude-code-can-be-an-exciting-and-rewarding-experience-especially-for-beginner-to-intermediate-developers",
+        "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-everything-claude.html"
+      },
+      "updated_at": "2026-03-03T09:34:07.068520"
     }
   },
-  "updated_at": "2026-03-03T06:53:08.429292"
+  "updated_at": "2026-03-03T09:34:07.068947"
 }
