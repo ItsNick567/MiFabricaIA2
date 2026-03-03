@@ -194,11 +194,33 @@ def force_translate_to_english(text: str, engines: List[str] | None = None) -> s
 
 
 def _extract_title(text: str, fallback_topic: str) -> str:
+    generic_titles = {
+        "introduction",
+        "tutorial",
+        "guide",
+        "overview",
+        "getting started",
+    }
+    topic_lower = str(fallback_topic or "").strip().lower()
+
     for line in (text or "").splitlines():
         cleaned = line.strip().lstrip("#").strip()
-        if cleaned:
-            return cleaned[:140]
-    return f"Guide: {fallback_topic}"
+        if not cleaned:
+            continue
+        cleaned_lower = cleaned.lower()
+
+        if cleaned_lower in generic_titles:
+            continue
+
+        # If the title is too generic and does not reference the topic, force a descriptive fallback.
+        if len(cleaned.split()) <= 2 and topic_lower and topic_lower not in cleaned_lower:
+            continue
+
+        return cleaned[:140]
+
+    if fallback_topic:
+        return f"Introduction to {fallback_topic}"[:140]
+    return "Practical Developer Tutorial"
 
 
 def _extract_sections(text: str) -> List[Dict[str, str]]:
