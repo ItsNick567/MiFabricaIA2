@@ -283,10 +283,37 @@ class AutonomousPipeline:
             filtered = tokens
         if not filtered:
             return text
-        return " ".join(filtered[:6])
+        # Compact canonical key avoids duplicates like "openclaw", "open claw", and "open-claw".
+        compact = "".join(filtered[:6])
+        return compact[:80]
+
+    def _compact(self, value: str) -> str:
+        return re.sub(r"[^a-z0-9]+", "", str(value or "").lower())
+
+    def _resolve_known_topic_key(self, candidate_key: str) -> str:
+        candidate = str(candidate_key or "").strip().lower()
+        if not candidate:
+            return candidate
+
+        candidate_compact = self._compact(candidate)
+        known_keys = set(self.topic_publications.keys()) | set(self.processed_topics)
+        for existing in known_keys:
+            existing_text = str(existing or "").strip().lower()
+            if not existing_text:
+                continue
+            existing_compact = self._compact(existing_text)
+            if not existing_compact:
+                continue
+            if candidate_compact == existing_compact:
+                return existing_text
+            if len(candidate_compact) >= 8 and len(existing_compact) >= 8:
+                if candidate_compact in existing_compact or existing_compact in candidate_compact:
+                    return existing_text
+        return candidate
 
     def _pending_platforms_for_key(self, key: str) -> List[str]:
-        record = self.topic_publications.get(key, {})
+        resolved_key = self._resolve_known_topic_key(key)
+        record = self.topic_publications.get(resolved_key, {})
         already = {str(name).strip().lower() for name in record.get("platforms_success", []) if str(name).strip()}
         return [platform for platform in self.required_platforms if platform not in already]
 
@@ -518,7 +545,7 @@ class AutonomousPipeline:
             if not topic:
                 continue
 
-            key = self._topic_key(topic)
+            key = self._resolve_known_topic_key(self._topic_key(topic))
             if not key:
                 continue
 
