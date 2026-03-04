@@ -10,6 +10,7 @@
     "2026-03-03|publish|13",
     "2026-03-03|publish|18",
     "2026-03-03|trends|06",
+    "2026-03-04|publish|09",
     "2026-03-04|trends|06"
   ],
   "required_platforms": [
@@ -22,7 +23,7 @@
     "openclaw": {
       "topic": "Getting Started with openclaw",
       "title": "Introduction to openclaw",
-      "tutorial_id": "20260303_185447_8a14aa",
+      "tutorial_id": "20260304_091109_2782d5",
       "platforms_success": [
         "blogger",
         "devto",
@@ -33,12 +34,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/introduction",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/introduction.html"
       },
-      "updated_at": "2026-03-03T18:54:52.476937"
+      "updated_at": "2026-03-04T09:11:14.608152"
     },
     "claudecode": {
       "topic": "Getting Started with everything-claude-code",
-      "title": "Getting started with everything-claude-code can be an exciting and rewarding experience, especially for beginner to intermediate developers.",
-      "tutorial_id": "20260303_185455_c72f16",
+      "title": "Getting started with everything-claude-code can seem daunting, but with the right guidance, you can quickly become proficient in this powerf",
+      "tutorial_id": "20260304_091118_400ccb",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -47,12 +48,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-everything-claude-code-can-be-an-exciting-and-rewarding-experience-especially-for-beginner-to-intermediate-developers",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-everything-claude.html"
       },
-      "updated_at": "2026-03-03T18:55:05.078897"
+      "updated_at": "2026-03-04T09:11:28.891654"
     },
     "uiuxpromaxskill": {
       "topic": "Getting Started with ui-ux-pro-max-skill",
-      "title": "Getting started with ui-ux-pro-max-skill can be an exciting yet daunting task, especially for beginner to intermediate developers. As a deve",
-      "tutorial_id": "20260303_185509_510312",
+      "title": "Getting started with UI/UX design can be a daunting task, especially for beginner to intermediate developers. The field of UI/UX design is c",
+      "tutorial_id": "20260304_091133_2ae91a",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -61,12 +62,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-ui-ux-pro-max-skill-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-uiux-design-is-a-cruci",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-ui-ux-pro-max.html"
       },
-      "updated_at": "2026-03-03T18:55:19.821060"
+      "updated_at": "2026-03-04T09:11:44.266910"
     },
     "ohmyopencode": {
       "topic": "Getting Started with oh-my-opencode",
       "title": "Oh-my-opencode is an open-source framework designed to simplify the development process for beginners and intermediate developers. It provid",
-      "tutorial_id": "20260303_185522_ca903d",
+      "tutorial_id": "20260304_091148_b113c6",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -75,8 +76,22 @@
         "hashnode": "https://autonomousworld.hashnode.dev/oh-my-opencode-is-an-open-source-framework-designed-to-simplify-the-development-process-for-beginners-and-intermediate-developers-it-provid",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/oh-my-opencode-is-open-source-framework.html"
       },
-      "updated_at": "2026-03-03T18:55:33.888105"
+      "updated_at": "2026-03-04T09:11:58.544446"
+    },
+    "worldmonitor": {
+      "topic": "Getting Started with worldmonitor",
+      "title": "Getting started with worldmonitor can be an exciting experience, especially for developers who are interested in monitoring and analyzing gl",
+      "tutorial_id": "20260304_091202_a0d64c",
+      "platforms_success": [
+        "blogger",
+        "hashnode"
+      ],
+      "urls": {
+        "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-worldmonitor-can-be-an-exciting-experience-especially-for-developers-who-are-interested-in-monitoring-and-analyzing-gl",
+        "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-worldmonitor-can.html"
+      },
+      "updated_at": "2026-03-04T09:12:14.683079"
     }
   },
-  "updated_at": "2026-03-04T06:06:18.029463"
+  "updated_at": "2026-03-04T09:12:14.683588"
 }
