@@ -20,6 +20,7 @@
     "2026-03-05|trends|06",
     "2026-03-06|publish|09",
     "2026-03-06|publish|13",
+    "2026-03-06|publish|18",
     "2026-03-06|trends|06"
   ],
   "required_platforms": [
@@ -32,7 +33,7 @@
     "openclaw": {
       "topic": "Getting Started with openclaw",
       "title": "Introduction to openclaw",
-      "tutorial_id": "20260306_145018_3f6c58",
+      "tutorial_id": "20260306_180047_68487b",
       "platforms_success": [
         "blogger",
         "devto",
@@ -43,12 +44,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/introduction",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/introduction.html"
       },
-      "updated_at": "2026-03-06T14:51:38.168529"
+      "updated_at": "2026-03-06T18:00:52.108445"
     },
     "claudecode": {
       "topic": "Getting Started with everything-claude-code",
-      "title": "Getting started with everything-claude-code can be an exciting and challenging experience, especially for beginner to intermediate developer",
-      "tutorial_id": "20260306_145027_2f5d86",
+      "title": "Getting started with everything-claude-code can be an exciting and rewarding experience, especially for beginner to intermediate developers.",
+      "tutorial_id": "20260306_180055_53e847",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -57,12 +58,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-everything-claude-code-can-be-an-exciting-and-rewarding-experience-especially-for-beginner-to-intermediate-developers",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-everything-claude.html"
       },
-      "updated_at": "2026-03-06T14:50:37.964751"
+      "updated_at": "2026-03-06T18:01:05.089714"
     },
     "uiuxpromaxskill": {
       "topic": "Getting Started with ui-ux-pro-max-skill",
       "title": "Getting started with UI/UX design can be a daunting task, especially for beginner to intermediate developers. UI/UX design is a crucial aspe",
-      "tutorial_id": "20260306_145041_83f497",
+      "tutorial_id": "20260306_180108_b48818",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -71,7 +72,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-ui-ux-pro-max-skill-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-uiux-design-is-a-cruci",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-ui-ux-pro-max.html"
       },
-      "updated_at": "2026-03-06T14:50:52.045924"
+      "updated_at": "2026-03-06T18:01:18.319055"
     },
     "ohmyopencode": {
       "topic": "Getting Started with oh-my-opencode",
@@ -200,7 +201,21 @@
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-picoclaw-can-be.html"
       },
       "updated_at": "2026-03-06T14:52:59.550341"
+    },
+    "ohmyopenagent": {
+      "topic": "Getting Started with oh-my-openagent",
+      "title": "Oh-my-openagent is an open-source project that provides a simple and efficient way to monitor and manage your infrastructure. It allows you",
+      "tutorial_id": "20260306_180121_693b31",
+      "platforms_success": [
+        "blogger",
+        "hashnode"
+      ],
+      "urls": {
+        "hashnode": "https://autonomousworld.hashnode.dev/oh-my-openagent-is-an-open-source-project-that-provides-a-simple-and-efficient-way-to-monitor-and-manage-your-infrastructure-it-allows-you",
+        "blogger": "https://autonomousworlddev.blogspot.com/2026/03/oh-my-openagent-is-open-source-project.html"
+      },
+      "updated_at": "2026-03-06T18:01:32.738921"
     }
   },
-  "updated_at": "2026-03-06T14:52:59.551131"
+  "updated_at": "2026-03-06T18:01:32.739779"
 }
