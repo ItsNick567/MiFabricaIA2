@@ -28,6 +28,7 @@
     "2026-03-07|trends|06",
     "2026-03-08|publish|09",
     "2026-03-08|publish|13",
+    "2026-03-08|publish|18",
     "2026-03-08|trends|06"
   ],
   "required_platforms": [
@@ -39,8 +40,8 @@
   "topic_publications": {
     "openclaw": {
       "topic": "Getting Started with openclaw",
-      "title": "Getting started with OpenCLAW can be a daunting task, especially for developers who are new to the world of high-performance computing. Open",
-      "tutorial_id": "20260308_135151_d51db3",
+      "title": "Introduction to openclaw",
+      "tutorial_id": "20260308_185411_a46981",
       "platforms_success": [
         "blogger",
         "devto",
@@ -51,12 +52,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/introduction",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/introduction.html"
       },
-      "updated_at": "2026-03-08T13:55:14.068737"
+      "updated_at": "2026-03-08T18:57:30.206830"
     },
     "claudecode": {
       "topic": "Getting Started with everything-claude-code",
-      "title": "Welcome to the comprehensive tutorial on getting started with everything-claude-code. This tutorial is designed for beginner to intermediate",
-      "tutorial_id": "20260308_135201_faeda8",
+      "title": "Getting started with everything-claude-code can be an exciting and rewarding experience, especially for beginner to intermediate developers.",
+      "tutorial_id": "20260308_185420_84dc09",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -65,12 +66,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-everything-claude-code-can-be-an-exciting-and-rewarding-experience-especially-for-beginner-to-intermediate-developers",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-everything-claude.html"
       },
-      "updated_at": "2026-03-08T13:52:11.977793"
+      "updated_at": "2026-03-08T18:54:30.457812"
     },
     "uiuxpromaxskill": {
       "topic": "Getting Started with ui-ux-pro-max-skill",
-      "title": "Introduction to ui-ux-pro-max-skill",
-      "tutorial_id": "20260308_135216_de878b",
+      "title": "Getting started with UI/UX design can be a daunting task, especially for developers who are new to the field. However, with the right tools",
+      "tutorial_id": "20260308_185433_e38c66",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -79,7 +80,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-ui-ux-pro-max-skill-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-uiux-design-is-a-cruci",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-ui-ux-pro-max.html"
       },
-      "updated_at": "2026-03-08T13:52:26.922268"
+      "updated_at": "2026-03-08T18:54:43.871620"
     },
     "ohmyopencode": {
       "topic": "Getting Started with oh-my-opencode",
@@ -97,8 +98,8 @@
     },
     "worldmonitor": {
       "topic": "Getting Started with worldmonitor",
-      "title": "Getting started with worldmonitor can be an exciting experience, especially for developers looking to explore new possibilities in monitorin",
-      "tutorial_id": "20260308_135244_f42e09",
+      "title": "Worldmonitor is a powerful tool for monitoring and analyzing system resources, network activity, and application performance. As a developer",
+      "tutorial_id": "20260308_185459_0f27d2",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -107,12 +108,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-worldmonitor-can-be-an-exciting-experience-especially-for-developers-who-are-interested-in-monitoring-and-analyzing-gl",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-worldmonitor-can.html"
       },
-      "updated_at": "2026-03-08T13:52:54.600560"
+      "updated_at": "2026-03-08T18:55:10.109147"
     },
     "nanobot": {
       "topic": "Getting Started with nanobot",
       "title": "Getting started with nanobot can be an exciting venture, especially for developers looking to explore the realm of robotics and artificial i",
-      "tutorial_id": "20260308_135302_78da70",
+      "tutorial_id": "20260308_185519_49e46e",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -121,12 +122,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-nanobot-can-be-an-exciting-venture-especially-for-developers-looking-to-explore-the-realm-of-robotics-and-artificial-i",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-nanobot-can-be.html"
       },
-      "updated_at": "2026-03-08T13:53:13.363230"
+      "updated_at": "2026-03-08T18:55:29.881385"
     },
     "antigravitymanager": {
       "topic": "Getting Started with Antigravity-Manager",
-      "title": "Introduction to Antigravity-Manager",
-      "tutorial_id": "20260308_135330_48d30a",
+      "title": "Getting Started with Antigravity-Manager",
+      "tutorial_id": "20260308_185548_c851dc",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -135,12 +136,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/introduction-to-antigravity-manager",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/introduction-to-antigravity-manager.html"
       },
-      "updated_at": "2026-03-08T13:53:40.730473"
+      "updated_at": "2026-03-08T18:55:59.055564"
     },
     "openautoglm": {
       "topic": "Getting Started with Open-AutoGLM",
       "title": "Introduction to Open-AutoGLM",
-      "tutorial_id": "20260308_135406_d4f63d",
+      "tutorial_id": "20260308_185624_818735",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -149,12 +150,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/introduction-to-open-autoglm",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/introduction-to-open-autoglm.html"
       },
-      "updated_at": "2026-03-08T13:54:17.037777"
+      "updated_at": "2026-03-08T18:56:34.644617"
     },
     "getshitdone": {
       "topic": "Getting Started with get-shit-done",
-      "title": "Welcome to this comprehensive tutorial on getting started with Git, a powerful version control system used by developers worldwide. Git is a",
-      "tutorial_id": "20260308_135317_563c25",
+      "title": "Getting Started with Git",
+      "tutorial_id": "20260308_185534_991278",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -163,12 +164,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-git",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-git.html"
       },
-      "updated_at": "2026-03-08T13:53:27.380892"
+      "updated_at": "2026-03-08T18:55:44.740769"
     },
     "zeroclaw": {
       "topic": "Getting Started with zeroclaw",
-      "title": "Getting started with zeroclaw can be an exciting venture, especially for developers looking to explore new technologies. Zeroclaw is a power",
-      "tutorial_id": "20260308_135357_a1515c",
+      "title": "Introduction to zeroclaw",
+      "tutorial_id": "20260308_185615_c0346a",
       "platforms_success": [
         "blogger",
         "devto",
@@ -179,12 +180,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/introduction-to-zeroclaw",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/introduction-to-zeroclaw.html"
       },
-      "updated_at": "2026-03-08T13:54:03.174112"
+      "updated_at": "2026-03-08T18:56:20.735547"
     },
     "dailystockanalysis": {
       "topic": "Getting Started with daily_stock_analysis",
       "title": "Getting started with daily stock analysis can be a daunting task, especially for beginner developers. The goal of this tutorial is to provid",
-      "tutorial_id": "20260308_135343_ca284c",
+      "tutorial_id": "20260308_185602_76d547",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -193,12 +194,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-daily-stock-analysis-can-be-a-daunting-task-especially-for-beginner-developers-with-the-numerous-libraries-and-tools",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-daily-stock.html"
       },
-      "updated_at": "2026-03-08T13:53:54.249003"
+      "updated_at": "2026-03-08T18:56:12.541743"
     },
     "picoclaw": {
       "topic": "Getting Started with picoclaw",
-      "title": "Getting started with picoclaw can be an exciting experience, especially for developers who want to build robust and scalable web application",
-      "tutorial_id": "20260308_135421_e62233",
+      "title": "Introduction to picoclaw",
+      "tutorial_id": "20260308_185638_5ff263",
       "platforms_success": [
         "blogger",
         "devto",
@@ -209,12 +210,12 @@
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-picoclaw-can-be.html",
         "devto": "https://dev.to/autonomousworld/introduction-to-picoclaw-1f7c"
       },
-      "updated_at": "2026-03-08T13:54:26.760300"
+      "updated_at": "2026-03-08T18:56:44.009412"
     },
     "ohmyopenagent": {
       "topic": "Getting Started with oh-my-openagent",
-      "title": "Oh-my-openagent is an open-source project that simplifies the process of building and managing observability systems. It provides a set of p",
-      "tutorial_id": "20260308_135229_803278",
+      "title": "Introduction to oh-my-openagent",
+      "tutorial_id": "20260308_185446_9875c9",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -223,12 +224,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/oh-my-openagent-is-an-open-source-project-that-provides-a-simple-and-efficient-way-to-monitor-and-manage-your-infrastructure-it-allows-you",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/oh-my-openagent-is-open-source-project.html"
       },
-      "updated_at": "2026-03-08T13:52:40.254083"
+      "updated_at": "2026-03-08T18:54:56.792847"
     },
     "agentskills": {
       "topic": "Getting Started with agent-skills",
-      "title": "Getting started with agent-skills can be an exciting and rewarding experience, especially for developers looking to create innovative and in",
-      "tutorial_id": "20260308_135444_659d47",
+      "title": "Getting started with agent-skills can be an exciting journey, especially for developers looking to create innovative and interactive applica",
+      "tutorial_id": "20260308_185700_8ed3d2",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -237,12 +238,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-agent-skills-can-be-an-exciting-venture-especially-for-developers-looking-to-create-intelligent-agents-that-can-perfor",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-agent-skills-can.html"
       },
-      "updated_at": "2026-03-08T13:54:54.892411"
+      "updated_at": "2026-03-08T18:57:10.950363"
     },
     "antigravityawesomeskills": {
       "topic": "Getting Started with antigravity-awesome-skills",
-      "title": "Getting started with antigravity-awesome-skills can be an exciting and challenging experience for developers. Antigravity-awesome-skills is",
-      "tutorial_id": "20260308_135430_b3d035",
+      "title": "Introduction to antigravity-awesome-skills",
+      "tutorial_id": "20260308_185647_228af1",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -251,12 +252,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-antigravity-awesome-skills-can-be-an-exciting-venture-for-developers-looking-to-expand-their-skill-set-antigravity-awe",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-antigravity.html"
       },
-      "updated_at": "2026-03-08T13:54:40.867049"
+      "updated_at": "2026-03-08T18:56:57.556499"
     },
     "nanoclaw": {
       "topic": "Getting Started with nanoclaw",
-      "title": "Getting started with nanoclaw can be an exciting experience, especially for developers who are interested in building scalable and efficient",
-      "tutorial_id": "20260308_135458_65d77b",
+      "title": "Getting started with nanoclaw can be an exciting venture, especially for developers looking to explore the world of machine learning and dat",
+      "tutorial_id": "20260308_185714_c59c42",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -265,12 +266,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-nanoclaw-can-be-an-exciting-venture-especially-for-developers-looking-to-explore-the-world-of-machine-learning-and-art",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-nanoclaw-can-be.html"
       },
-      "updated_at": "2026-03-08T13:55:08.588632"
+      "updated_at": "2026-03-08T18:57:24.757828"
     },
     "agentbrowser": {
       "topic": "Getting Started with agent-browser",
-      "title": "Getting started with agent-browser can be an exciting experience, especially for developers who are looking to create innovative and interac",
-      "tutorial_id": "20260308_135517_304df1",
+      "title": "Getting started with agent-browser can be a daunting task, especially for beginner to intermediate developers. However, with the right guida",
+      "tutorial_id": "20260308_185733_2369b4",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -279,8 +280,22 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-agent-browser-can-be-an-exciting-experience-especially-for-developers-who-are-looking-to-create-innovative-and-interac",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-agent-browser-can.html"
       },
-      "updated_at": "2026-03-08T13:55:29.395933"
+      "updated_at": "2026-03-08T18:57:43.736714"
+    },
+    "algorithm": {
+      "topic": "Getting Started with x-algorithm",
+      "title": "Getting started with x-algorithm can be an exciting and rewarding experience, especially for developers looking to expand their skill set an",
+      "tutorial_id": "20260308_185746_7bc28c",
+      "platforms_success": [
+        "blogger",
+        "hashnode"
+      ],
+      "urls": {
+        "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-x-algorithm-can-be-an-exciting-and-rewarding-experience-especially-for-developers-looking-to-expand-their-skill-set-an",
+        "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-x-algorithm-can-be.html"
+      },
+      "updated_at": "2026-03-08T18:57:59.461495"
     }
   },
-  "updated_at": "2026-03-08T13:55:29.396971"
+  "updated_at": "2026-03-08T18:57:59.462470"
 }
