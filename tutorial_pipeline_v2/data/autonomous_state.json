@@ -54,6 +54,7 @@
     "2026-03-14|publish|13",
     "2026-03-14|publish|18",
     "2026-03-14|trends|06",
+    "2026-03-15|publish|09",
     "2026-03-15|trends|06"
   ],
   "required_platforms": [
@@ -66,7 +67,7 @@
     "openclaw": {
       "topic": "Getting Started with openclaw",
       "title": "Introduction to openclaw",
-      "tutorial_id": "20260314_185814_15ad62",
+      "tutorial_id": "20260315_090659_48ec06",
       "platforms_success": [
         "blogger",
         "devto",
@@ -77,12 +78,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/introduction",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/introduction.html"
       },
-      "updated_at": "2026-03-14T19:01:05.456226"
+      "updated_at": "2026-03-15T09:07:04.677773"
     },
     "claudecode": {
       "topic": "Getting Started with everything-claude-code",
-      "title": "Getting started with Claude Code can be an exciting and rewarding experience, especially for beginner to intermediate developers. Claude Cod",
-      "tutorial_id": "20260314_185823_454c1c",
+      "title": "Getting started with everything-claude-code can be an exciting and rewarding experience, especially for beginner to intermediate developers.",
+      "tutorial_id": "20260315_090710_04e144",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -91,12 +92,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-everything-claude-code-can-be-an-exciting-and-rewarding-experience-especially-for-beginner-to-intermediate-developers",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-everything-claude.html"
       },
-      "updated_at": "2026-03-14T18:58:33.904698"
+      "updated_at": "2026-03-15T09:07:20.336453"
     },
     "uiuxpromaxskill": {
       "topic": "Getting Started with ui-ux-pro-max-skill",
       "title": "Getting started with UI/UX design can be a daunting task, especially for developers who are new to the field. However, with the right tools",
-      "tutorial_id": "20260314_185837_6d1363",
+      "tutorial_id": "20260315_090724_e0bdb1",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -105,7 +106,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-ui-ux-pro-max-skill-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-uiux-design-is-a-cruci",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-ui-ux-pro-max.html"
       },
-      "updated_at": "2026-03-14T18:58:48.037054"
+      "updated_at": "2026-03-15T09:07:34.288037"
     },
     "ohmyopencode": {
       "topic": "Getting Started with oh-my-opencode",
@@ -123,17 +124,19 @@
     },
     "worldmonitor": {
       "topic": "Getting Started with worldmonitor",
-      "title": "Getting started with worldmonitor can be an exciting experience, especially for developers looking to explore new possibilities in monitorin",
-      "tutorial_id": "20260314_185904_37c7f7",
+      "title": "Introduction to WorldMonitor",
+      "tutorial_id": "20260315_090750_17e241",
       "platforms_success": [
         "blogger",
+        "devto",
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-worldmonitor-can-be-an-exciting-experience-especially-for-developers-who-are-interested-in-monitoring-and-analyzing-gl",
-        "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-worldmonitor-can.html"
+        "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-worldmonitor-can.html",
+        "devto": "https://dev.to/autonomousworld/introduction-to-worldmonitor-1bk0"
       },
-      "updated_at": "2026-03-14T18:59:14.588185"
+      "updated_at": "2026-03-15T09:07:56.327848"
     },
     "nanobot": {
       "topic": "Getting Started with nanobot",
@@ -243,8 +246,8 @@
     },
     "ohmyopenagent": {
       "topic": "Getting Started with oh-my-openagent",
-      "title": "Oh-my-openagent is an open-source monitoring agent that provides a simple and efficient way to collect metrics and logs from your applicatio",
-      "tutorial_id": "20260314_185851_49ccec",
+      "title": "Introduction to oh-my-openagent",
+      "tutorial_id": "20260315_090736_626a01",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -253,7 +256,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/oh-my-openagent-is-an-open-source-project-that-provides-a-simple-and-efficient-way-to-monitor-and-manage-your-infrastructure-it-allows-you",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/oh-my-openagent-is-open-source-project.html"
       },
-      "updated_at": "2026-03-14T18:59:01.318223"
+      "updated_at": "2026-03-15T09:07:46.957711"
     },
     "agentskills": {
       "topic": "Getting Started with agent-skills",
@@ -380,5 +383,5 @@
       "updated_at": "2026-03-14T19:01:26.138514"
     }
   },
-  "updated_at": "2026-03-15T06:38:17.941225"
+  "updated_at": "2026-03-15T09:07:56.329303"
 }
