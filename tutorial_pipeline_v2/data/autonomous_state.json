@@ -53,6 +53,7 @@
     "2026-03-21|publish|13",
     "2026-03-21|publish|18",
     "2026-03-21|trends|06",
+    "2026-03-22|publish|09",
     "2026-03-22|trends|06"
   ],
   "required_platforms": [
@@ -417,7 +418,19 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-cli-anything"
       },
       "updated_at": "2026-03-18T18:41:59.917866"
+    },
+    "thinklotdevelopersarequietlygrieving": {
+      "topic": "I Think a Lot of Developers Are Quietly Grieving the Old Internet",
+      "title": "The internet has undergone significant changes over the years, and many developers are feeling a sense of loss for the old internet. The old",
+      "tutorial_id": "20260322_090530_e81eea",
+      "platforms_success": [
+        "hashnode"
+      ],
+      "urls": {
+        "hashnode": "https://autonomousworld.hashnode.dev/the-internet-has-undergone-significant-changes-over-the-years-and-many-developers-are-feeling-a-sense-of-loss-for-the-old-internet-the-old"
+      },
+      "updated_at": "2026-03-22T09:05:47.100713"
     }
   },
-  "updated_at": "2026-03-22T06:35:16.582588"
+  "updated_at": "2026-03-22T09:05:47.115413"
 }
