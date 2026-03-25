@@ -54,6 +54,7 @@
     "2026-03-24|publish|18",
     "2026-03-24|trends|06",
     "2026-03-25|publish|09",
+    "2026-03-25|publish|13",
     "2026-03-25|trends|06"
   ],
   "required_platforms": [
@@ -81,8 +82,8 @@
     },
     "claudecode": {
       "topic": "Getting Started with everything-claude-code",
-      "title": "Getting started with everything-claude-code can be an exciting and rewarding experience, especially for beginner to intermediate developers.",
-      "tutorial_id": "20260325_094509_095113",
+      "title": "Introduction to everything-claude-code",
+      "tutorial_id": "20260325_140233_4e9dff",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -91,12 +92,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-everything-claude-code-can-be-an-exciting-and-rewarding-experience-especially-for-beginner-to-intermediate-developers",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-everything-claude.html"
       },
-      "updated_at": "2026-03-25T09:45:19.874426"
+      "updated_at": "2026-03-25T14:02:44.169961"
     },
     "uiuxpromaxskill": {
       "topic": "Getting Started with ui-ux-pro-max-skill",
-      "title": "Getting started with UI/UX design can be a daunting task, especially for beginner to intermediate developers. UI/UX design is a crucial aspe",
-      "tutorial_id": "20260325_094537_b10607",
+      "title": "Getting started with UI/UX design can be a daunting task, especially for developers who are new to the field. UI/UX design is a crucial aspe",
+      "tutorial_id": "20260325_140300_2f0ab6",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -105,7 +106,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-ui-ux-pro-max-skill-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-uiux-design-is-a-cruci",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-ui-ux-pro-max.html"
       },
-      "updated_at": "2026-03-25T09:45:47.997698"
+      "updated_at": "2026-03-25T14:03:10.597619"
     },
     "ohmyopencode": {
       "topic": "Getting Started with oh-my-opencode",
@@ -343,8 +344,8 @@
     },
     "autoresearch": {
       "topic": "Getting Started with autoresearch",
-      "title": "Getting started with autoresearch can be a daunting task, especially for beginner to intermediate developers. Autoresearch is a powerful too",
-      "tutorial_id": "20260325_094523_c62b02",
+      "title": "Getting started with autoresearch can be an exciting and rewarding experience, especially for developers looking to automate their research",
+      "tutorial_id": "20260325_140247_511ae2",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -353,7 +354,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-autoresearch-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-autoresearch-is-a-powerful-too",
         "devto": "https://dev.to/autonomousworld/introduction-to-autoresearch-1n6f"
       },
-      "updated_at": "2026-03-25T09:45:34.106915"
+      "updated_at": "2026-03-25T14:02:56.808580"
     },
     "paperclip": {
       "topic": "Getting Started with paperclip",
@@ -397,15 +398,17 @@
     },
     "gstack": {
       "topic": "Getting Started with gstack",
-      "title": "Getting started with gstack can be an exciting experience, especially for developers looking to streamline their workflow and improve produc",
-      "tutorial_id": "20260325_094552_891938",
+      "title": "Getting started with gstack can be an exciting venture, especially for developers looking to streamline their workflow and improve productiv",
+      "tutorial_id": "20260325_140313_f09ced",
       "platforms_success": [
+        "devto",
         "hashnode"
       ],
       "urls": {
-        "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-gstack-can-be-an-exciting-and-rewarding-experience-especially-for-developers-looking-to-streamline-their-workflow-and"
+        "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-gstack-can-be-an-exciting-and-rewarding-experience-especially-for-developers-looking-to-streamline-their-workflow-and",
+        "devto": "https://dev.to/autonomousworld/getting-started-with-gstack-can-be-an-exciting-venture-especially-for-developers-looking-to-38bo"
       },
-      "updated_at": "2026-03-25T09:46:08.712555"
+      "updated_at": "2026-03-25T14:03:23.600561"
     },
     "clianything": {
       "topic": "Getting Started with CLI-Anything",
@@ -432,5 +435,5 @@
       "updated_at": "2026-03-22T09:05:47.100713"
     }
   },
-  "updated_at": "2026-03-25T09:49:20.662536"
+  "updated_at": "2026-03-25T14:03:23.602109"
 }
