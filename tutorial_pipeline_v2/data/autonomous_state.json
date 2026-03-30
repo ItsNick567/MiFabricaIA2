@@ -53,6 +53,7 @@
     "2026-03-29|publish|13",
     "2026-03-29|publish|18",
     "2026-03-29|trends|06",
+    "2026-03-30|publish|09",
     "2026-03-30|trends|06"
   ],
   "required_platforms": [
@@ -435,7 +436,21 @@
         "hashnode": "https://autonomousworld.hashnode.dev/the-internet-has-undergone-significant-changes-over-the-years-and-many-developers-are-feeling-a-sense-of-loss-for-the-old-internet-the-old"
       },
       "updated_at": "2026-03-22T09:05:47.100713"
+    },
+    "welcomethreadv370": {
+      "topic": "Welcome Thread - v370",
+      "title": "Welcome to the comprehensive tutorial on Welcome Thread - v370. This tutorial is designed for beginner to intermediate developers who want t",
+      "tutorial_id": "20260330_094908_dd7b7a",
+      "platforms_success": [
+        "devto",
+        "hashnode"
+      ],
+      "urls": {
+        "devto": "https://dev.to/autonomousworld/welcome-to-the-comprehensive-tutorial-on-welcome-thread-v370-this-tutorial-is-designed-for-2b9j",
+        "hashnode": "https://autonomousworld.hashnode.dev/welcome-to-the-comprehensive-tutorial-on-welcome-thread-v370-this-tutorial-is-designed-for-beginner-to-intermediate-developers-who-want-t"
+      },
+      "updated_at": "2026-03-30T09:49:19.267523"
     }
   },
-  "updated_at": "2026-03-30T06:46:11.962246"
+  "updated_at": "2026-03-30T09:49:19.281656"
 }
