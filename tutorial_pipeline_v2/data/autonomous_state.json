@@ -54,6 +54,7 @@
     "2026-03-30|publish|18",
     "2026-03-30|trends|06",
     "2026-03-31|publish|09",
+    "2026-03-31|publish|13",
     "2026-03-31|trends|06"
   ],
   "required_platforms": [
@@ -82,7 +83,7 @@
     "claudecode": {
       "topic": "Getting Started with everything-claude-code",
       "title": "Getting started with everything-claude-code can be an exciting and rewarding experience, especially for beginner to intermediate developers.",
-      "tutorial_id": "20260331_094811_3676d9",
+      "tutorial_id": "20260331_133440_6f42ab",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -91,7 +92,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-everything-claude-code-can-be-an-exciting-and-rewarding-experience-especially-for-beginner-to-intermediate-developers",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-everything-claude.html"
       },
-      "updated_at": "2026-03-31T09:49:53.834339"
+      "updated_at": "2026-03-31T13:34:50.486122"
     },
     "uiuxpromaxskill": {
       "topic": "Getting Started with ui-ux-pro-max-skill",
@@ -464,7 +465,19 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-pretext-can-be-an-exciting-venture-for-developers-looking-to-create-and-manage-text-based-content-in-a-more-efficient-a"
       },
       "updated_at": "2026-03-31T09:51:45.053096"
+    },
+    "clawcode": {
+      "topic": "Getting Started with claw-code",
+      "title": "Getting started with claw-code can be an exciting experience, especially for beginner to intermediate developers. Claw-code is a powerful to",
+      "tutorial_id": "20260331_133453_795686",
+      "platforms_success": [
+        "hashnode"
+      ],
+      "urls": {
+        "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-claw-code-can-be-an-exciting-experience-especially-for-beginner-to-intermediate-developers-claw-code-is-a-powerful-to"
+      },
+      "updated_at": "2026-03-31T13:35:08.457113"
     }
   },
-  "updated_at": "2026-03-31T09:51:45.054562"
+  "updated_at": "2026-03-31T13:35:08.458610"
 }
