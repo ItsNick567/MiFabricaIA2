@@ -55,6 +55,7 @@
     "2026-04-12|trends|06",
     "2026-04-13|publish|09",
     "2026-04-13|publish|13",
+    "2026-04-13|publish|18",
     "2026-04-13|trends|06"
   ],
   "required_platforms": [
@@ -67,7 +68,7 @@
     "openclaw": {
       "topic": "Getting Started with awesome-openclaw-skills",
       "title": "Introduction to awesome-openclaw-skills",
-      "tutorial_id": "20260413_140922_202a0c",
+      "tutorial_id": "20260413_185312_5216a5",
       "platforms_success": [
         "blogger",
         "devto",
@@ -78,12 +79,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/introduction",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/introduction.html"
       },
-      "updated_at": "2026-04-13T14:11:27.736284"
+      "updated_at": "2026-04-13T18:53:23.885051"
     },
     "claudecode": {
       "topic": "Getting Started with everything-claude-code",
-      "title": "Welcome to this comprehensive tutorial on getting started with everything-claude-code. As a beginner to intermediate developer, you're likel",
-      "tutorial_id": "20260413_140759_610a7d",
+      "title": "Getting started with everything-claude-code can be an exciting journey for developers, as it offers a wide range of tools and features to si",
+      "tutorial_id": "20260413_185213_059118",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -92,7 +93,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-everything-claude-code-can-be-an-exciting-and-rewarding-experience-especially-for-beginner-to-intermediate-developers",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-everything-claude.html"
       },
-      "updated_at": "2026-04-13T14:08:09.395867"
+      "updated_at": "2026-04-13T18:52:23.747871"
     },
     "uiuxpromaxskill": {
       "topic": "Getting Started with ui-ux-pro-max-skill",
@@ -347,7 +348,7 @@
     "autoresearch": {
       "topic": "Getting Started with autoresearch",
       "title": "Getting started with autoresearch can be a daunting task, especially for beginner to intermediate developers. Autoresearch is a powerful too",
-      "tutorial_id": "20260413_140813_aef666",
+      "tutorial_id": "20260413_185227_8da072",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -356,12 +357,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-autoresearch-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-autoresearch-is-a-powerful-too",
         "devto": "https://dev.to/autonomousworld/introduction-to-autoresearch-1n6f"
       },
-      "updated_at": "2026-04-13T14:08:23.248110"
+      "updated_at": "2026-04-13T18:52:38.004916"
     },
     "paperclip": {
       "topic": "Getting Started with paperclip",
-      "title": "Getting started with Paperclip can be an exciting experience, especially for developers who are looking to add file uploads to their Ruby on",
-      "tutorial_id": "20260413_140840_1ea46a",
+      "title": "Getting started with Paperclip can be an exciting experience, especially for developers who want to add file uploads to their Ruby on Rails",
+      "tutorial_id": "20260413_185257_5d2c64",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -370,7 +371,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/paperclip-is-a-popular-ruby-gem-used-for-handling-file-uploads-in-ruby-on-rails-applications-it-provides-a-simple-and-efficient-way-to-uplo",
         "devto": "https://dev.to/autonomousworld/paperclip-is-a-popular-ruby-gem-used-for-handling-file-uploads-in-ruby-on-rails-applications-it-gde"
       },
-      "updated_at": "2026-04-13T14:08:49.834867"
+      "updated_at": "2026-04-13T18:53:08.039411"
     },
     "mirofish": {
       "topic": "Getting Started with MiroFish",
@@ -402,8 +403,8 @@
     },
     "gstack": {
       "topic": "Getting Started with gstack",
-      "title": "Getting started with gstack can be a daunting task, especially for beginner to intermediate developers. However, with the right guidance, yo",
-      "tutorial_id": "20260413_140827_012f87",
+      "title": "Getting started with gstack can be an exciting venture, especially for developers looking to streamline their workflow and improve productiv",
+      "tutorial_id": "20260413_185241_ec22f3",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -412,7 +413,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-gstack-can-be-an-exciting-and-rewarding-experience-especially-for-developers-looking-to-streamline-their-workflow-and",
         "devto": "https://dev.to/autonomousworld/getting-started-with-gstack-can-be-an-exciting-venture-especially-for-developers-looking-to-38bo"
       },
-      "updated_at": "2026-04-13T14:08:36.556870"
+      "updated_at": "2026-04-13T18:52:51.873485"
     },
     "clianything": {
       "topic": "Getting Started with CLI-Anything",
@@ -468,15 +469,15 @@
     },
     "clawcode": {
       "topic": "Getting Started with claw-code",
-      "title": "Getting started with claw-code can be an exciting experience, especially for developers looking to explore new programming paradigms. Claw-c",
-      "tutorial_id": "20260413_140740_c47612",
+      "title": "Getting started with claw-code can be an exciting and rewarding experience, especially for beginner to intermediate developers. Claw-code is",
+      "tutorial_id": "20260413_185155_40ba91",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-claw-code-can-be-an-exciting-experience-especially-for-beginner-to-intermediate-developers-claw-code-is-a-powerful-to"
       },
-      "updated_at": "2026-04-13T14:07:54.701143"
+      "updated_at": "2026-04-13T18:52:10.722928"
     },
     "awesomedesignmd": {
       "topic": "Getting Started with awesome-design-md",
@@ -531,5 +532,5 @@
       "updated_at": "2026-04-13T14:10:29.113516"
     }
   },
-  "updated_at": "2026-04-13T14:11:48.754264"
+  "updated_at": "2026-04-13T18:53:24.062411"
 }
