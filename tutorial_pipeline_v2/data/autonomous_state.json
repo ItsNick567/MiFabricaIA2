@@ -55,6 +55,7 @@
     "2026-04-19|trends|06",
     "2026-04-20|publish|09",
     "2026-04-20|publish|13",
+    "2026-04-20|publish|18",
     "2026-04-20|trends|06"
   ],
   "required_platforms": [
@@ -82,8 +83,8 @@
     },
     "claudecode": {
       "topic": "Getting Started with everything-claude-code",
-      "title": "Getting started with everything-claude-code can be an exciting and rewarding experience, especially for beginner to intermediate developers.",
-      "tutorial_id": "20260420_140206_6cb52c",
+      "title": "Getting started with `everything-claude-code` can seem daunting, but with the right guidance, you can quickly become proficient in this powe",
+      "tutorial_id": "20260420_181112_124bbe",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -92,7 +93,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-everything-claude-code-can-be-an-exciting-and-rewarding-experience-especially-for-beginner-to-intermediate-developers",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-everything-claude.html"
       },
-      "updated_at": "2026-04-20T14:02:16.564022"
+      "updated_at": "2026-04-20T18:12:44.237051"
     },
     "uiuxpromaxskill": {
       "topic": "Getting Started with ui-ux-pro-max-skill",
@@ -346,8 +347,8 @@
     },
     "autoresearch": {
       "topic": "Getting Started with autoresearch",
-      "title": "Introduction to Autoresearch",
-      "tutorial_id": "20260420_140232_6c9281",
+      "title": "Getting started with autoresearch can be a daunting task, especially for beginner to intermediate developers. Autoresearch is a powerful too",
+      "tutorial_id": "20260420_181142_b7bc90",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -356,7 +357,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-autoresearch-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-autoresearch-is-a-powerful-too",
         "devto": "https://dev.to/autonomousworld/introduction-to-autoresearch-1n6f"
       },
-      "updated_at": "2026-04-20T14:02:42.455029"
+      "updated_at": "2026-04-20T18:11:52.524007"
     },
     "paperclip": {
       "topic": "Getting Started with paperclip",
@@ -403,7 +404,7 @@
     "gstack": {
       "topic": "Getting Started with gstack",
       "title": "Getting started with gstack can be an exciting experience, especially for developers looking to streamline their workflow and improve produc",
-      "tutorial_id": "20260420_140219_83e62c",
+      "tutorial_id": "20260420_181127_6d8d29",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -412,7 +413,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-gstack-can-be-an-exciting-and-rewarding-experience-especially-for-developers-looking-to-streamline-their-workflow-and",
         "devto": "https://dev.to/autonomousworld/getting-started-with-gstack-can-be-an-exciting-venture-especially-for-developers-looking-to-38bo"
       },
-      "updated_at": "2026-04-20T14:02:29.492008"
+      "updated_at": "2026-04-20T18:11:37.798265"
     },
     "clianything": {
       "topic": "Getting Started with CLI-Anything",
@@ -468,27 +469,27 @@
     },
     "clawcode": {
       "topic": "Getting Started with claw-code",
-      "title": "Getting started with claw-code can be an exciting journey, especially for developers looking to explore new programming paradigms. Claw-code",
-      "tutorial_id": "20260420_140147_44e17f",
+      "title": "Getting started with claw-code can be an exciting experience, especially for developers looking to expand their skill set and explore new te",
+      "tutorial_id": "20260420_181052_62fa79",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-claw-code-can-be-an-exciting-experience-especially-for-beginner-to-intermediate-developers-claw-code-is-a-powerful-to"
       },
-      "updated_at": "2026-04-20T14:02:02.973293"
+      "updated_at": "2026-04-20T18:11:07.812486"
     },
     "awesomedesignmd": {
       "topic": "Getting Started with awesome-design-md",
-      "title": "Getting started with awesome-design-md can be an exciting experience, especially for developers who want to create stunning documentation an",
-      "tutorial_id": "20260420_140304_299299",
+      "title": "Getting started with awesome-design-md can be an exciting experience, especially for developers who are looking to create stunning and inter",
+      "tutorial_id": "20260420_181214_7d35b9",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-awesome-design-md-can-be-an-exciting-venture-especially-for-developers-looking-to-enhance-their-documentation-and-proj"
       },
-      "updated_at": "2026-04-20T14:03:20.585020"
+      "updated_at": "2026-04-20T18:12:31.779524"
     },
     "openclaude": {
       "topic": "Getting Started with openclaude",
@@ -532,15 +533,15 @@
     },
     "andrejkarpathyskills": {
       "topic": "Getting Started with andrej-karpathy-skills",
-      "title": "Getting started with machine learning and deep learning can be a daunting task, especially for beginner developers. However, with the right",
-      "tutorial_id": "20260420_140246_113909",
+      "title": "Getting started with machine learning can be a daunting task, especially for beginner developers. However, with the right resources and guid",
+      "tutorial_id": "20260420_181155_57a10a",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-machine-learning-can-be-a-daunting-task-especially-for-beginner-developers-however-with-the-right-resources-and-guid"
       },
-      "updated_at": "2026-04-20T14:03:01.682369"
+      "updated_at": "2026-04-20T18:12:11.298819"
     },
     "caveman": {
       "topic": "Getting Started with caveman",
@@ -571,5 +572,5 @@
       "updated_at": "2026-04-20T10:01:45.406859"
     }
   },
-  "updated_at": "2026-04-20T14:05:47.276719"
+  "updated_at": "2026-04-20T18:12:44.238660"
 }
