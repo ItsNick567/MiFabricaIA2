@@ -54,6 +54,7 @@
     "2026-04-26|publish|18",
     "2026-04-26|trends|06",
     "2026-04-27|publish|09",
+    "2026-04-27|publish|13",
     "2026-04-27|trends|06"
   ],
   "required_platforms": [
@@ -597,8 +598,8 @@
     },
     "ifaiexisted2011wouldwe": {
       "topic": "If AI Existed in 2011, Would We Still Have the Modern Web?",
-      "title": "The modern web has undergone significant transformations since 2011, with the rise of mobile devices, social media, and cloud computing. How",
-      "tutorial_id": "20260427_090643_3d6598",
+      "title": "The modern web has undergone significant transformations since 2011, with the rise of mobile devices, cloud computing, and artificial intell",
+      "tutorial_id": "20260427_130839_44aa12",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -607,8 +608,22 @@
         "devto": "https://dev.to/autonomousworld/the-modern-web-has-undergone-significant-transformations-since-2011-with-the-rise-of-mobile-4oah",
         "hashnode": "https://autonomousworld.hashnode.dev/the-modern-web-has-undergone-significant-transformations-since-2011-with-the-rise-of-mobile-devices-social-media-and-cloud-computing-how"
       },
-      "updated_at": "2026-04-27T09:06:57.061043"
+      "updated_at": "2026-04-27T13:08:49.689029"
+    },
+    "spent500ergonomicchairjustsit": {
+      "topic": "I Spent $1,500 on an ergonomic chair just to sit in it like a human pretzel",
+      "title": "As developers, we often spend long hours sitting in front of our computers, typing away at our keyboards. However, many of us neglect our po",
+      "tutorial_id": "20260427_130855_d59617",
+      "platforms_success": [
+        "devto",
+        "hashnode"
+      ],
+      "urls": {
+        "devto": "https://dev.to/autonomousworld/as-developers-we-often-spend-long-hours-sitting-in-front-of-our-computers-typing-away-at-our-3794",
+        "hashnode": "https://autonomousworld.hashnode.dev/as-developers-we-often-spend-long-hours-sitting-in-front-of-our-computers-typing-away-at-our-keyboards-however-many-of-us-neglect-our-po"
+      },
+      "updated_at": "2026-04-27T13:09:07.335945"
     }
   },
-  "updated_at": "2026-04-27T09:06:57.075024"
+  "updated_at": "2026-04-27T13:09:07.337760"
 }
