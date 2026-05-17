@@ -54,6 +54,7 @@
     "2026-05-16|publish|18",
     "2026-05-16|trends|06",
     "2026-05-17|publish|09",
+    "2026-05-17|publish|13",
     "2026-05-17|trends|06"
   ],
   "required_platforms": [
@@ -65,8 +66,8 @@
   "topic_publications": {
     "openclaw": {
       "topic": "Getting Started with awesome-openclaw-skills",
-      "title": "Getting started with awesome-openclaw-skills can be an exciting and rewarding experience for developers. OpenCL is a powerful framework that",
-      "tutorial_id": "20260517_095331_67b0d9",
+      "title": "Getting started with awesome-openclaw-skills can be an exciting journey for developers looking to enhance their skills in OpenCL and machine",
+      "tutorial_id": "20260517_131233_ad3a5d",
       "platforms_success": [
         "blogger",
         "devto",
@@ -77,12 +78,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/introduction",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/introduction.html"
       },
-      "updated_at": "2026-05-17T09:53:36.789214"
+      "updated_at": "2026-05-17T13:12:38.787471"
     },
     "claudecode": {
       "topic": "Getting Started with everything-claude-code",
-      "title": "Getting started with everything-claude-code can be an exciting yet daunting task, especially for beginner to intermediate developers. This t",
-      "tutorial_id": "20260517_095105_2fc683",
+      "title": "Getting started with everything-claude-code can be an exciting and challenging experience, especially for beginner to intermediate developer",
+      "tutorial_id": "20260517_131009_d54485",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -91,7 +92,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-everything-claude-code-can-be-an-exciting-and-rewarding-experience-especially-for-beginner-to-intermediate-developers",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-everything-claude.html"
       },
-      "updated_at": "2026-05-17T09:51:15.657545"
+      "updated_at": "2026-05-17T13:10:19.396700"
     },
     "uiuxpromaxskill": {
       "topic": "Getting Started with ui-ux-pro-max-skill",
@@ -139,8 +140,8 @@
     },
     "nanobot": {
       "topic": "Getting Started with nanobot",
-      "title": "Getting started with nanobot can be an exciting venture, especially for developers looking to explore the world of robotics and artificial i",
-      "tutorial_id": "20260517_095426_e5946d",
+      "title": "Getting started with nanobot can be an exciting experience, especially for developers who are interested in building and deploying small, ef",
+      "tutorial_id": "20260517_131325_c6a737",
       "platforms_success": [
         "blogger",
         "devto",
@@ -151,7 +152,7 @@
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-nanobot-can-be.html",
         "devto": "https://dev.to/autonomousworld/introduction-to-nanobot-1ech"
       },
-      "updated_at": "2026-05-17T09:54:31.192893"
+      "updated_at": "2026-05-17T13:13:29.945699"
     },
     "antigravitymanager": {
       "topic": "Getting Started with Antigravity-Manager",
@@ -259,8 +260,8 @@
     },
     "agentskills": {
       "topic": "Getting Started with agent-skills",
-      "title": "Getting started with agent-skills can be a daunting task, especially for beginner developers. However, with the right guidance, you can quic",
-      "tutorial_id": "20260517_095453_4ed326",
+      "title": "Getting started with agent-skills can be an exciting venture, especially for developers looking to create innovative and interactive applica",
+      "tutorial_id": "20260517_131353_439b02",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -269,7 +270,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-agent-skills-can-be-an-exciting-venture-especially-for-developers-looking-to-create-intelligent-agents-that-can-perfor",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-agent-skills-can.html"
       },
-      "updated_at": "2026-05-17T09:55:04.000655"
+      "updated_at": "2026-05-17T13:14:03.294686"
     },
     "antigravityawesomeskills": {
       "topic": "Getting Started with antigravity-awesome-skills",
@@ -287,8 +288,8 @@
     },
     "nanoclaw": {
       "topic": "Getting Started with nanoclaw",
-      "title": "Getting started with nanoclaw can be an exciting venture, especially for developers interested in building scalable and efficient applicatio",
-      "tutorial_id": "20260517_095526_6a8c93",
+      "title": "Getting started with nanoclaw can be an exciting venture, especially for developers looking to explore the world of machine learning and nat",
+      "tutorial_id": "20260517_131406_51f07e",
       "platforms_success": [
         "blogger",
         "devto",
@@ -299,7 +300,7 @@
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-nanoclaw-can-be.html",
         "devto": "https://dev.to/autonomousworld/introduction-to-nanoclaw-147c"
       },
-      "updated_at": "2026-05-17T09:55:31.583767"
+      "updated_at": "2026-05-17T13:14:11.777140"
     },
     "agentbrowser": {
       "topic": "Getting Started with agent-browser",
@@ -345,8 +346,8 @@
     },
     "autoresearch": {
       "topic": "Getting Started with autoresearch",
-      "title": "Getting started with autoresearch can be an exciting and rewarding experience, especially for developers who want to automate their research",
-      "tutorial_id": "20260517_095203_432b48",
+      "title": "Getting started with autoresearch can be a daunting task, especially for beginner to intermediate developers. Autoresearch is a powerful too",
+      "tutorial_id": "20260517_131109_975c57",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -355,12 +356,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-autoresearch-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-autoresearch-is-a-powerful-too",
         "devto": "https://dev.to/autonomousworld/introduction-to-autoresearch-1n6f"
       },
-      "updated_at": "2026-05-17T09:52:13.454844"
+      "updated_at": "2026-05-17T13:11:18.667616"
     },
     "paperclip": {
       "topic": "Getting Started with paperclip",
-      "title": "Paperclip is a popular Ruby gem used for attachment management in Ruby on Rails applications. It provides an easy-to-use interface for uploa",
-      "tutorial_id": "20260517_095235_71bd57",
+      "title": "Paperclip is a popular Ruby gem used for handling file uploads in Ruby on Rails applications. It provides a simple and efficient way to atta",
+      "tutorial_id": "20260517_131139_bc9487",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -369,7 +370,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/paperclip-is-a-popular-ruby-gem-used-for-handling-file-uploads-in-ruby-on-rails-applications-it-provides-a-simple-and-efficient-way-to-uplo",
         "devto": "https://dev.to/autonomousworld/paperclip-is-a-popular-ruby-gem-used-for-handling-file-uploads-in-ruby-on-rails-applications-it-gde"
       },
-      "updated_at": "2026-05-17T09:52:45.001205"
+      "updated_at": "2026-05-17T13:11:49.349306"
     },
     "mirofish": {
       "topic": "Getting Started with MiroFish",
@@ -401,8 +402,8 @@
     },
     "gstack": {
       "topic": "Getting Started with gstack",
-      "title": "Getting started with `gstack` can be an exciting experience, especially for developers looking to streamline their workflow and improve prod",
-      "tutorial_id": "20260517_095138_68fa0f",
+      "title": "Getting started with gstack can be an exciting experience, especially for developers looking to streamline their workflow and improve produc",
+      "tutorial_id": "20260517_131041_beaddb",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -411,7 +412,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-gstack-can-be-an-exciting-and-rewarding-experience-especially-for-developers-looking-to-streamline-their-workflow-and",
         "devto": "https://dev.to/autonomousworld/getting-started-with-gstack-can-be-an-exciting-venture-especially-for-developers-looking-to-38bo"
       },
-      "updated_at": "2026-05-17T09:51:48.116485"
+      "updated_at": "2026-05-17T13:10:51.159644"
     },
     "clianything": {
       "topic": "Getting Started with CLI-Anything",
@@ -453,8 +454,8 @@
     },
     "pretext": {
       "topic": "Getting Started with pretext",
-      "title": "Getting started with Pretext can be an exciting venture, especially for developers looking to create interactive and engaging content. Prete",
-      "tutorial_id": "20260517_095412_479332",
+      "title": "Getting started with pretext can be a daunting task, especially for beginner developers. Pretext is a powerful tool that allows you to creat",
+      "tutorial_id": "20260517_131312_187d41",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -463,31 +464,31 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-pretext-can-be-an-exciting-venture-for-developers-looking-to-create-and-manage-jg1",
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-pretext-can-be-an-exciting-venture-for-developers-looking-to-create-and-manage-text-based-content-in-a-more-efficient-a"
       },
-      "updated_at": "2026-05-17T09:54:22.270505"
+      "updated_at": "2026-05-17T13:13:22.149247"
     },
     "clawcode": {
       "topic": "Getting Started with claw-code",
-      "title": "Getting started with claw-code can be an exciting experience, especially for developers looking to enhance their workflow and productivity.",
-      "tutorial_id": "20260517_095047_7bcfea",
+      "title": "Getting started with claw-code can be an exciting experience, especially for developers looking to explore new programming paradigms. Claw-c",
+      "tutorial_id": "20260517_130952_78f4b6",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-claw-code-can-be-an-exciting-experience-especially-for-beginner-to-intermediate-developers-claw-code-is-a-powerful-to"
       },
-      "updated_at": "2026-05-17T09:51:02.074889"
+      "updated_at": "2026-05-17T13:10:07.223803"
     },
     "awesomedesignmd": {
       "topic": "Getting Started with awesome-design-md",
-      "title": "Getting started with awesome-design-md can be an exciting experience, especially for developers who want to create stunning documentation an",
-      "tutorial_id": "20260517_095217_8fac83",
+      "title": "Getting started with awesome-design-md can be an exciting experience, especially for developers looking to create stunning and responsive we",
+      "tutorial_id": "20260517_131122_f63a68",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-awesome-design-md-can-be-an-exciting-venture-especially-for-developers-looking-to-enhance-their-documentation-and-proj"
       },
-      "updated_at": "2026-05-17T09:52:31.770283"
+      "updated_at": "2026-05-17T13:11:36.865126"
     },
     "openclaude": {
       "topic": "Getting Started with openclaude",
@@ -505,8 +506,8 @@
     },
     "mempalace": {
       "topic": "Getting Started with mempalace",
-      "title": "Getting started with Mempalace can be an exciting venture, especially for developers looking to improve their memory and retention skills. M",
-      "tutorial_id": "20260517_095304_95e264",
+      "title": "Getting started with Mempalace can be an exciting venture, especially for developers looking to leverage the power of memory palaces in thei",
+      "tutorial_id": "20260517_131208_301b1d",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -515,36 +516,36 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-mempalace-can-be-an-exciting-venture-especially-for-developers-looking-to-3fj4",
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-mempalace-can-be-an-exciting-venture-especially-for-developers-looking-to-leverage-the-power-of-memory-based-data-stor"
       },
-      "updated_at": "2026-05-17T09:53:14.416889"
+      "updated_at": "2026-05-17T13:12:18.059927"
     },
     "careerops": {
       "topic": "Getting Started with career-ops",
       "title": "Getting started with career-ops can be an exciting and challenging experience, especially for beginner to intermediate developers. Career-op",
-      "tutorial_id": "20260517_095354_4745c3",
+      "tutorial_id": "20260517_131255_30e35b",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-career-ops-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-career-ops-also-known-as-career"
       },
-      "updated_at": "2026-05-17T09:54:08.751064"
+      "updated_at": "2026-05-17T13:13:09.737722"
     },
     "andrejkarpathyskills": {
       "topic": "Getting Started with andrej-karpathy-skills",
       "title": "Getting started with machine learning and deep learning can be a daunting task, especially for beginner developers. However, with the right",
-      "tutorial_id": "20260517_095120_829953",
+      "tutorial_id": "20260517_131023_e2974f",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-machine-learning-can-be-a-daunting-task-especially-for-beginner-developers-however-with-the-right-resources-and-guid"
       },
-      "updated_at": "2026-05-17T09:51:35.069750"
+      "updated_at": "2026-05-17T13:10:37.944711"
     },
     "caveman": {
       "topic": "Getting Started with caveman",
-      "title": "Getting started with caveman, a lightweight and flexible PHP framework, can be an exciting experience for developers looking to build robust",
-      "tutorial_id": "20260517_095250_f46331",
+      "title": "Getting started with Caveman can seem daunting, but with the right guidance, you can quickly become proficient in this powerful framework. C",
+      "tutorial_id": "20260517_131155_1118c4",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -553,12 +554,12 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-caveman-a-lightweight-and-flexible-php-framework-can-be-a-great-way-to-build-ghh",
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-caveman-a-lightweight-and-flexible-php-framework-can-be-a-great-way-to-build-robust-web-applications-caveman-is-desi"
       },
-      "updated_at": "2026-05-17T09:53:00.221146"
+      "updated_at": "2026-05-17T13:12:04.815204"
     },
     "graphify": {
       "topic": "Getting Started with graphify",
-      "title": "Getting started with graphify can be an exciting venture, especially for developers looking to visualize and analyze complex data relationsh",
-      "tutorial_id": "20260517_095317_773bf7",
+      "title": "Getting started with graphify can be an exciting journey, especially for developers who are new to graph databases. Graphify is a powerful t",
+      "tutorial_id": "20260517_131221_438f1b",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -567,12 +568,12 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-graphify-can-seem-daunting-but-with-the-right-guidance-you-can-unlock-the-30gi",
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-graphify-can-seem-daunting-but-with-the-right-guidance-you-can-unlock-the-full-potential-of-this-powerful-tool-graph"
       },
-      "updated_at": "2026-05-17T09:53:27.258276"
+      "updated_at": "2026-05-17T13:12:30.634575"
     },
     "rtk": {
       "topic": "Getting Started with rtk",
       "title": "RTK (Redux Toolkit) is a set of tools that helps simplify the process of using Redux in your React applications. It provides a more straight",
-      "tutorial_id": "20260517_095340_5c573c",
+      "tutorial_id": "20260517_131242_a3c549",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -581,7 +582,7 @@
         "devto": "https://dev.to/autonomousworld/rtk-redux-toolkit-is-a-set-of-tools-that-helps-simplify-the-process-of-using-redux-in-your-react-5k",
         "hashnode": "https://autonomousworld.hashnode.dev/rtk-redux-toolkit-is-a-set-of-tools-that-helps-simplify-the-process-of-using-redux-in-your-react-applications-it-provides-a-more-straight"
       },
-      "updated_at": "2026-05-17T09:53:49.895124"
+      "updated_at": "2026-05-17T13:12:51.892253"
     },
     "obsidianskills": {
       "topic": "Getting Started with obsidian-skills",
@@ -626,7 +627,7 @@
     "skills": {
       "topic": "Getting Started with skills",
       "title": "Getting started with new skills can be a daunting task, especially for beginner to intermediate developers. With the ever-evolving landscape",
-      "tutorial_id": "20260517_095151_5b89bb",
+      "tutorial_id": "20260517_131055_69b6be",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -635,19 +636,19 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-new-skills-can-be-a-daunting-task-especially-for-beginner-to-intermediate-2jd1",
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-new-skills-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-with-the-ever-evolving-landscape"
       },
-      "updated_at": "2026-05-17T09:52:01.297501"
+      "updated_at": "2026-05-17T13:11:05.119344"
     },
     "opendesign": {
       "topic": "Getting Started with open-design",
-      "title": "Getting started with open-design can be an exciting and creative journey, especially for developers who are looking to expand their skill se",
-      "tutorial_id": "20260517_095435_504f72",
+      "title": "Getting started with open-design can be an exciting venture for developers looking to create innovative and collaborative projects. Open-des",
+      "tutorial_id": "20260517_131333_dfee70",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-open-design-can-be-an-exciting-venture-for-developers-as-it-allows-for-the-creation-of-customizable-and-modular-system"
       },
-      "updated_at": "2026-05-17T09:54:49.915054"
+      "updated_at": "2026-05-17T13:13:47.477191"
     },
     "marketingskills": {
       "topic": "Getting Started with marketingskills",
@@ -672,5 +673,5 @@
       "updated_at": "2026-05-15T11:25:54.920146"
     }
   },
-  "updated_at": "2026-05-17T09:55:31.585641"
+  "updated_at": "2026-05-17T13:14:11.778962"
 }
