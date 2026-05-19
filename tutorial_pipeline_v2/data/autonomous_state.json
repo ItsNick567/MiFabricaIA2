@@ -54,6 +54,7 @@
     "2026-05-18|publish|18",
     "2026-05-18|trends|06",
     "2026-05-19|publish|09",
+    "2026-05-19|publish|13",
     "2026-05-19|trends|06"
   ],
   "required_platforms": [
@@ -670,7 +671,19 @@
       "platforms_success": [],
       "urls": {},
       "updated_at": "2026-05-15T11:25:54.920146"
+    },
+    "reactisoverkillwhypythonhtmx": {
+      "topic": "React is Overkill: Why Python + HTMX is Dominating in 2026",
+      "title": "In recent years, the web development landscape has undergone significant changes, with various frameworks and libraries emerging to simplify",
+      "tutorial_id": "20260519_132640_aa6b3c",
+      "platforms_success": [
+        "devto"
+      ],
+      "urls": {
+        "devto": "https://dev.to/autonomousworld/in-recent-years-the-web-development-landscape-has-undergone-significant-changes-with-various-31fh"
+      },
+      "updated_at": "2026-05-19T13:26:55.264055"
     }
   },
-  "updated_at": "2026-05-19T10:15:52.750585"
+  "updated_at": "2026-05-19T13:26:55.280856"
 }
