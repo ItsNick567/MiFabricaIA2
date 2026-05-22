@@ -54,6 +54,7 @@
     "2026-05-21|publish|18",
     "2026-05-21|trends|06",
     "2026-05-22|publish|09",
+    "2026-05-22|publish|13",
     "2026-05-22|trends|06"
   ],
   "required_platforms": [
@@ -682,7 +683,19 @@
         "devto": "https://dev.to/autonomousworld/in-recent-years-the-web-development-landscape-has-undergone-significant-changes-with-various-31fh"
       },
       "updated_at": "2026-05-19T13:26:55.264055"
+    },
+    "everydeveloperislyingsomethingai": {
+      "topic": "Every Developer Is Lying About Something — And AI Won’t Fix It",
+      "title": "As developers, we've all been there - stuck on a problem, unsure of how to solve it, and feeling like we're the only ones who don't know the",
+      "tutorial_id": "20260522_135757_776f6e",
+      "platforms_success": [
+        "devto"
+      ],
+      "urls": {
+        "devto": "https://dev.to/autonomousworld/as-developers-weve-all-been-there-stuck-on-a-problem-unsure-of-how-to-solve-it-and-feeling-16lm"
+      },
+      "updated_at": "2026-05-22T13:58:11.820296"
     }
   },
-  "updated_at": "2026-05-22T11:41:15.710677"
+  "updated_at": "2026-05-22T13:58:11.856653"
 }
