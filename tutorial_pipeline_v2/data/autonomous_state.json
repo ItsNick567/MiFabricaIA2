@@ -55,6 +55,7 @@
     "2026-05-25|trends|06",
     "2026-05-26|publish|09",
     "2026-05-26|publish|13",
+    "2026-05-26|publish|18",
     "2026-05-26|trends|06"
   ],
   "required_platforms": [
@@ -346,8 +347,8 @@
     },
     "autoresearch": {
       "topic": "Getting Started with autoresearch",
-      "title": "Getting started with autoresearch can be an exciting and rewarding experience, especially for developers looking to automate their research",
-      "tutorial_id": "20260526_150257_1dbe31",
+      "title": "Getting started with autoresearch can be an exciting and intimidating experience, especially for beginner to intermediate developers. Autore",
+      "tutorial_id": "20260526_182547_eb1bab",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -356,7 +357,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-autoresearch-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-autoresearch-is-a-powerful-too",
         "devto": "https://dev.to/autonomousworld/introduction-to-autoresearch-1n6f"
       },
-      "updated_at": "2026-05-26T15:03:06.785682"
+      "updated_at": "2026-05-26T18:25:56.361194"
     },
     "paperclip": {
       "topic": "Getting Started with paperclip",
@@ -402,8 +403,8 @@
     },
     "gstack": {
       "topic": "Getting Started with gstack",
-      "title": "Getting started with gstack can be an exciting journey, especially for developers who want to streamline their workflow and improve producti",
-      "tutorial_id": "20260526_150243_64bc31",
+      "title": "Getting started with `gstack` can be an exciting experience, especially for developers looking to streamline their workflow and improve prod",
+      "tutorial_id": "20260526_182534_3ea329",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -412,7 +413,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-gstack-can-be-an-exciting-and-rewarding-experience-especially-for-developers-looking-to-streamline-their-workflow-and",
         "devto": "https://dev.to/autonomousworld/getting-started-with-gstack-can-be-an-exciting-venture-especially-for-developers-looking-to-38bo"
       },
-      "updated_at": "2026-05-26T15:02:52.871536"
+      "updated_at": "2026-05-26T18:25:43.863091"
     },
     "clianything": {
       "topic": "Getting Started with CLI-Anything",
@@ -468,15 +469,15 @@
     },
     "clawcode": {
       "topic": "Getting Started with claw-code",
-      "title": "Getting started with claw-code can seem overwhelming, especially for beginner to intermediate developers. However, with the right guidance,",
-      "tutorial_id": "20260526_150152_f8f59a",
+      "title": "Getting started with claw-code can be an exciting venture for developers looking to explore new programming paradigms. Claw-code is a versat",
+      "tutorial_id": "20260526_182443_353929",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-claw-code-can-be-an-exciting-experience-especially-for-beginner-to-intermediate-developers-claw-code-is-a-powerful-to"
       },
-      "updated_at": "2026-05-26T15:02:07.700226"
+      "updated_at": "2026-05-26T18:24:58.509502"
     },
     "awesomedesignmd": {
       "topic": "Getting Started with awesome-design-md",
@@ -532,15 +533,15 @@
     },
     "andrejkarpathyskills": {
       "topic": "Getting Started with andrej-karpathy-skills",
-      "title": "Getting started with machine learning and deep learning can be a daunting task, especially for beginner developers. However, with the right",
-      "tutorial_id": "20260526_150211_f97297",
+      "title": "Getting started with machine learning and deep learning can be overwhelming, especially for beginner developers. However, with the right res",
+      "tutorial_id": "20260526_182502_225a36",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-machine-learning-can-be-a-daunting-task-especially-for-beginner-developers-however-with-the-right-resources-and-guid"
       },
-      "updated_at": "2026-05-26T15:02:26.897573"
+      "updated_at": "2026-05-26T18:25:17.830739"
     },
     "caveman": {
       "topic": "Getting Started with caveman",
@@ -626,8 +627,8 @@
     },
     "skills": {
       "topic": "Getting Started with skills",
-      "title": "Getting started with new skills can be a daunting task, especially for beginner to intermediate developers. The world of programming is vast",
-      "tutorial_id": "20260526_150230_d413ed",
+      "title": "Getting started with new skills can be a daunting task, especially for beginner to intermediate developers. With the ever-evolving landscape",
+      "tutorial_id": "20260526_182521_7674d7",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -636,7 +637,7 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-new-skills-can-be-a-daunting-task-especially-for-beginner-to-intermediate-2jd1",
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-new-skills-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-with-the-ever-evolving-landscape"
       },
-      "updated_at": "2026-05-26T15:02:40.687292"
+      "updated_at": "2026-05-26T18:25:30.972762"
     },
     "opendesign": {
       "topic": "Getting Started with open-design",
@@ -737,5 +738,5 @@
       "updated_at": "2026-05-25T13:53:30.924751"
     }
   },
-  "updated_at": "2026-05-26T15:06:41.043751"
+  "updated_at": "2026-05-26T18:25:57.934955"
 }
