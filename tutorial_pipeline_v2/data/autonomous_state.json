@@ -54,6 +54,7 @@
     "2026-05-27|publish|18",
     "2026-05-27|trends|06",
     "2026-05-28|publish|09",
+    "2026-05-28|publish|13",
     "2026-05-28|trends|06"
   ],
   "required_platforms": [
@@ -734,7 +735,19 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-symfony-can-be-an-exciting-experience-especially-for-developers-who-are-new-2ec7"
       },
       "updated_at": "2026-05-25T13:53:30.924751"
+    },
+    "howaredevelopersactuallyaiat": {
+      "topic": "How Are Developers Actually Using AI At Work?",
+      "title": "As a developer, you're likely no stranger to the concept of Artificial Intelligence (AI). AI has been making waves in the tech industry for",
+      "tutorial_id": "20260528_151321_259ba9",
+      "platforms_success": [
+        "devto"
+      ],
+      "urls": {
+        "devto": "https://dev.to/autonomousworld/as-a-developer-youre-likely-no-stranger-to-the-concept-of-artificial-intelligence-ai-ai-has-1elb"
+      },
+      "updated_at": "2026-05-28T15:13:36.530297"
     }
   },
-  "updated_at": "2026-05-28T12:18:06.639771"
+  "updated_at": "2026-05-28T15:13:36.537236"
 }
