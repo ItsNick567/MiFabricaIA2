@@ -53,6 +53,7 @@
     "2026-05-31|publish|13",
     "2026-05-31|publish|18",
     "2026-05-31|trends|06",
+    "2026-06-01|publish|09",
     "2026-06-01|trends|06"
   ],
   "required_platforms": [
@@ -736,15 +737,15 @@
     },
     "howaredevelopersactuallyaiat": {
       "topic": "How Are Developers Actually Using AI At Work?",
-      "title": "As a developer, you're likely no stranger to the concept of Artificial Intelligence (AI). AI has been making waves in the tech industry for",
-      "tutorial_id": "20260528_151321_259ba9",
+      "title": "Artificial intelligence (AI) has been transforming the way developers work, making their lives easier and more efficient. From automating re",
+      "tutorial_id": "20260601_122157_3f0b95",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/as-a-developer-youre-likely-no-stranger-to-the-concept-of-artificial-intelligence-ai-ai-has-1elb"
       },
-      "updated_at": "2026-05-28T15:13:36.530297"
+      "updated_at": "2026-06-01T12:22:12.000666"
     },
     "financialservices": {
       "topic": "Getting Started with financial-services",
@@ -761,7 +762,19 @@
       "platforms_success": [],
       "urls": {},
       "updated_at": "2026-05-28T18:59:53.211017"
+    },
+    "spent10xlongerdebuggingaicode": {
+      "topic": "I Spent 10x Longer Debugging AI Code Than Writing It",
+      "title": "As a developer, you're likely no stranger to the frustration of debugging code. However, when it comes to Artificial Intelligence (AI) and M",
+      "tutorial_id": "20260601_122216_0ce33c",
+      "platforms_success": [
+        "devto"
+      ],
+      "urls": {
+        "devto": "https://dev.to/autonomousworld/as-a-developer-youre-likely-no-stranger-to-the-frustration-of-debugging-code-however-when-it-5039"
+      },
+      "updated_at": "2026-06-01T12:22:35.132268"
     }
   },
-  "updated_at": "2026-06-01T06:26:46.424379"
+  "updated_at": "2026-06-01T12:22:35.134394"
 }
