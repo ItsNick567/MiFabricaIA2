@@ -53,6 +53,7 @@
     "2026-06-07|publish|13",
     "2026-06-07|publish|18",
     "2026-06-07|trends|06",
+    "2026-06-08|publish|09",
     "2026-06-08|trends|06"
   ],
   "required_platforms": [
@@ -345,7 +346,7 @@
     "autoresearch": {
       "topic": "Getting Started with autoresearch",
       "title": "Getting started with autoresearch can be an exciting and rewarding experience, especially for developers looking to automate their research",
-      "tutorial_id": "20260607_184034_620e68",
+      "tutorial_id": "20260608_103616_feab88",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -354,7 +355,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-autoresearch-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-autoresearch-is-a-powerful-too",
         "devto": "https://dev.to/autonomousworld/introduction-to-autoresearch-1n6f"
       },
-      "updated_at": "2026-06-07T18:40:43.901570"
+      "updated_at": "2026-06-08T10:36:25.865543"
     },
     "paperclip": {
       "topic": "Getting Started with paperclip",
@@ -386,8 +387,8 @@
     },
     "llmfit": {
       "topic": "Getting Started with llmfit",
-      "title": "Getting started with `lmfit` can be an exciting experience, especially for developers who want to dive into the world of curve fitting and p",
-      "tutorial_id": "20260528_185906_0592a8",
+      "title": "Introduction to Lmfit",
+      "tutorial_id": "20260608_103850_d7a11c",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -396,12 +397,12 @@
         "devto": "https://dev.to/autonomousworld/introduction-to-lmfit-p03",
         "hashnode": "https://autonomousworld.hashnode.dev/introduction-to-lmfit"
       },
-      "updated_at": "2026-05-28T18:59:16.017445"
+      "updated_at": "2026-06-08T10:38:59.915585"
     },
     "gstack": {
       "topic": "Getting Started with gstack",
-      "title": "Getting started with gstack can seem daunting, but with the right guidance, you can quickly become proficient in using this powerful tool. G",
-      "tutorial_id": "20260607_184001_6ba91d",
+      "title": "Introduction to gstack",
+      "tutorial_id": "20260608_103603_c4048f",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -410,19 +411,19 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-gstack-can-be-an-exciting-and-rewarding-experience-especially-for-developers-looking-to-streamline-their-workflow-and",
         "devto": "https://dev.to/autonomousworld/getting-started-with-gstack-can-be-an-exciting-venture-especially-for-developers-looking-to-38bo"
       },
-      "updated_at": "2026-06-07T18:40:10.625696"
+      "updated_at": "2026-06-08T10:36:13.789591"
     },
     "clianything": {
       "topic": "Getting Started with CLI-Anything",
       "title": "Getting Started with CLI-Anything",
-      "tutorial_id": "20260607_141337_e8ad04",
+      "tutorial_id": "20260608_103746_6bd04a",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-cli-anything"
       },
-      "updated_at": "2026-06-07T14:13:52.803438"
+      "updated_at": "2026-06-08T10:38:01.093669"
     },
     "thinklotdevelopersarequietlygrieving": {
       "topic": "I Think a Lot of Developers Are Quietly Grieving the Old Internet",
@@ -518,15 +519,15 @@
     },
     "careerops": {
       "topic": "Getting Started with career-ops",
-      "title": "Getting started with career-ops can be an exciting and challenging experience for developers. Career-ops, a combination of career developmen",
-      "tutorial_id": "20260607_184240_9a2408",
+      "title": "Introduction to Career-Ops",
+      "tutorial_id": "20260608_103728_eca0ee",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-career-ops-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-career-ops-also-known-as-career"
       },
-      "updated_at": "2026-06-07T18:42:54.754325"
+      "updated_at": "2026-06-08T10:37:43.255510"
     },
     "andrejkarpathyskills": {
       "topic": "Getting Started with andrej-karpathy-skills",
@@ -556,8 +557,8 @@
     },
     "graphify": {
       "topic": "Getting Started with graphify",
-      "title": "Getting started with graphify can be an exciting venture, especially for developers looking to visualize and analyze complex data relationsh",
-      "tutorial_id": "20260607_184130_797263",
+      "title": "Getting started with graphify can be an exciting venture, especially for developers who are interested in visualizing and analyzing complex",
+      "tutorial_id": "20260608_103629_535cae",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -566,7 +567,7 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-graphify-can-seem-daunting-but-with-the-right-guidance-you-can-unlock-the-30gi",
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-graphify-can-seem-daunting-but-with-the-right-guidance-you-can-unlock-the-full-potential-of-this-powerful-tool-graph"
       },
-      "updated_at": "2026-06-07T18:41:40.163720"
+      "updated_at": "2026-06-08T10:36:39.555504"
     },
     "rtk": {
       "topic": "Getting Started with rtk",
@@ -638,15 +639,15 @@
     },
     "opendesign": {
       "topic": "Getting Started with open-design",
-      "title": "Getting started with open-design can be an exciting venture for developers, as it allows for the creation of customized and flexible systems",
-      "tutorial_id": "20260607_184144_d47774",
+      "title": "Getting started with open-design can be an exciting and creative journey for developers. Open-design is an approach to designing and buildin",
+      "tutorial_id": "20260608_103644_f671c7",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-open-design-can-be-an-exciting-venture-for-developers-as-it-allows-for-the-creation-of-customizable-and-modular-system"
       },
-      "updated_at": "2026-06-07T18:41:59.342197"
+      "updated_at": "2026-06-08T10:36:58.995030"
     },
     "marketingskills": {
       "topic": "Getting Started with marketingskills",
@@ -709,10 +710,10 @@
     "understandanything": {
       "topic": "Getting Started with Understand-Anything",
       "title": "Getting Started with Understand-Anything",
-      "tutorial_id": "20260607_184215_261f1a",
+      "tutorial_id": "20260608_103703_94ad21",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-06-07T18:42:35.977162"
+      "updated_at": "2026-06-08T10:37:23.382826"
     },
     "awesomeairesearchwriting": {
       "topic": "Getting Started with awesome-ai-research-writing",
@@ -724,15 +725,15 @@
     },
     "symphony": {
       "topic": "Getting Started with symphony",
-      "title": "Getting started with Symfony can be an exciting experience, especially for developers who are new to the world of PHP frameworks. Symfony is",
-      "tutorial_id": "20260525_135316_bee22b",
+      "title": "Getting started with Symfony can be a daunting task, especially for beginner to intermediate developers. However, with the right guidance, i",
+      "tutorial_id": "20260608_103902_d438c5",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-symfony-can-be-an-exciting-experience-especially-for-developers-who-are-new-2ec7"
       },
-      "updated_at": "2026-05-25T13:53:30.924751"
+      "updated_at": "2026-06-08T10:39:16.412426"
     },
     "howaredevelopersactuallyaiat": {
       "topic": "How Are Developers Actually Using AI At Work?",
@@ -789,11 +790,31 @@
     "aiengineeringscratch": {
       "topic": "Getting Started with ai-engineering-from-scratch",
       "title": "Getting started with AI engineering from scratch can be a daunting task, especially for beginner to intermediate developers. Artificial Inte",
-      "tutorial_id": "20260606_141709_9f3eb9",
+      "tutorial_id": "20260608_103804_866681",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-06-06T14:17:30.574555"
+      "updated_at": "2026-06-08T10:38:23.559854"
+    },
+    "academicresearchskills": {
+      "topic": "Getting Started with academic-research-skills",
+      "title": "Getting started with academic research skills is essential for developers who want to stay up-to-date with the latest advancements in their",
+      "tutorial_id": "20260608_103827_5d7cfa",
+      "platforms_success": [],
+      "urls": {},
+      "updated_at": "2026-06-08T10:38:46.966821"
+    },
+    "cloakbrowser": {
+      "topic": "Getting Started with CloakBrowser",
+      "title": "Introduction to CloakBrowser",
+      "tutorial_id": "20260608_103920_4d1074",
+      "platforms_success": [
+        "devto"
+      ],
+      "urls": {
+        "devto": "https://dev.to/autonomousworld/introduction-to-cloakbrowser-49po"
+      },
+      "updated_at": "2026-06-08T10:39:34.888166"
     }
   },
-  "updated_at": "2026-06-08T06:06:09.269796"
+  "updated_at": "2026-06-08T10:39:34.890100"
 }
