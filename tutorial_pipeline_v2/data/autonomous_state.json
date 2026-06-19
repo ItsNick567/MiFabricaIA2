@@ -55,6 +55,7 @@
     "2026-06-18|trends|06",
     "2026-06-19|publish|09",
     "2026-06-19|publish|13",
+    "2026-06-19|publish|18",
     "2026-06-19|trends|06"
   ],
   "required_platforms": [
@@ -346,8 +347,8 @@
     },
     "autoresearch": {
       "topic": "Getting Started with autoresearch",
-      "title": "Getting started with autoresearch can be a daunting task, especially for beginner to intermediate developers. Autoresearch is a powerful too",
-      "tutorial_id": "20260619_140354_8eeb55",
+      "title": "Getting started with autoresearch can be an exciting and challenging experience, especially for beginner to intermediate developers. Autores",
+      "tutorial_id": "20260619_183237_c47b10",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -356,12 +357,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-autoresearch-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-autoresearch-is-a-powerful-too",
         "devto": "https://dev.to/autonomousworld/introduction-to-autoresearch-1n6f"
       },
-      "updated_at": "2026-06-19T14:04:04.227183"
+      "updated_at": "2026-06-19T18:32:47.580695"
     },
     "paperclip": {
       "topic": "Getting Started with paperclip",
-      "title": "Paperclip is a popular Ruby gem used for handling file uploads in Ruby on Rails applications. It provides a simple and efficient way to atta",
-      "tutorial_id": "20260619_140427_6826e3",
+      "title": "Getting started with Paperclip can be an exciting experience, especially for developers who want to add file uploads to their Ruby on Rails",
+      "tutorial_id": "20260619_183312_088a58",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -370,7 +371,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/paperclip-is-a-popular-ruby-gem-used-for-handling-file-uploads-in-ruby-on-rails-applications-it-provides-a-simple-and-efficient-way-to-uplo",
         "devto": "https://dev.to/autonomousworld/paperclip-is-a-popular-ruby-gem-used-for-handling-file-uploads-in-ruby-on-rails-applications-it-gde"
       },
-      "updated_at": "2026-06-19T14:04:38.183151"
+      "updated_at": "2026-06-19T18:33:22.638611"
     },
     "mirofish": {
       "topic": "Getting Started with MiroFish",
@@ -403,7 +404,7 @@
     "gstack": {
       "topic": "Getting Started with gstack",
       "title": "Getting started with gstack can be an exciting experience, especially for developers looking to streamline their workflow and improve produc",
-      "tutorial_id": "20260619_140320_c71a5e",
+      "tutorial_id": "20260619_183202_7cff13",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -412,7 +413,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-gstack-can-be-an-exciting-and-rewarding-experience-especially-for-developers-looking-to-streamline-their-workflow-and",
         "devto": "https://dev.to/autonomousworld/getting-started-with-gstack-can-be-an-exciting-venture-especially-for-developers-looking-to-38bo"
       },
-      "updated_at": "2026-06-19T14:03:30.524947"
+      "updated_at": "2026-06-19T18:32:12.681774"
     },
     "clianything": {
       "topic": "Getting Started with CLI-Anything",
@@ -468,27 +469,27 @@
     },
     "clawcode": {
       "topic": "Getting Started with claw-code",
-      "title": "Getting started with claw-code can be an exciting and rewarding experience, especially for developers looking to improve their coding skills",
-      "tutorial_id": "20260619_140301_5d891b",
+      "title": "Getting started with claw-code can be an exciting experience for developers looking to explore new possibilities in coding. Claw-code is a v",
+      "tutorial_id": "20260619_183144_2aef46",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-claw-code-can-be-an-exciting-experience-especially-for-beginner-to-intermediate-developers-claw-code-is-a-powerful-to"
       },
-      "updated_at": "2026-06-19T14:03:16.930150"
+      "updated_at": "2026-06-19T18:31:59.618866"
     },
     "awesomedesignmd": {
       "topic": "Getting Started with awesome-design-md",
-      "title": "Getting started with awesome-design-md can be an exciting experience, especially for developers who want to create stunning documentation wi",
-      "tutorial_id": "20260619_140334_6db7bc",
+      "title": "Getting started with awesome-design-md can be an exciting experience, especially for developers looking to create stunning documentation and",
+      "tutorial_id": "20260619_183215_f7023b",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-awesome-design-md-can-be-an-exciting-venture-especially-for-developers-looking-to-enhance-their-documentation-and-proj"
       },
-      "updated_at": "2026-06-19T14:03:50.470495"
+      "updated_at": "2026-06-19T18:32:31.081092"
     },
     "openclaude": {
       "topic": "Getting Started with openclaude",
@@ -640,15 +641,15 @@
     },
     "opendesign": {
       "topic": "Getting Started with open-design",
-      "title": "Getting started with open-design can be an exciting and creative journey for developers. Open-design is an approach to designing and develop",
-      "tutorial_id": "20260619_140510_c9f52b",
+      "title": "Getting started with open-design can be an exciting and creative journey, especially for developers who are looking to collaborate and contr",
+      "tutorial_id": "20260619_183327_c24829",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-open-design-can-be-an-exciting-venture-for-developers-as-it-allows-for-the-creation-of-customizable-and-modular-system"
       },
-      "updated_at": "2026-06-19T14:05:26.297511"
+      "updated_at": "2026-06-19T18:33:43.060998"
     },
     "marketingskills": {
       "topic": "Getting Started with marketingskills",
@@ -778,15 +779,15 @@
     },
     "odysseus": {
       "topic": "Getting Started with odysseus",
-      "title": "Getting started with odysseus can be an exciting experience, especially for developers looking to work with a powerful and flexible data pro",
-      "tutorial_id": "20260619_140408_79850f",
+      "title": "Getting started with Odysseus can be an exciting experience, especially for developers who are new to stream processing and big data analyti",
+      "tutorial_id": "20260619_183251_146efd",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/odysseus-is-an-open-source-distributed-and-highly-scalable-data-integration-framework-that-allows-2b5l"
       },
-      "updated_at": "2026-06-19T14:04:23.696126"
+      "updated_at": "2026-06-19T18:33:06.389309"
     },
     "aiengineeringscratch": {
       "topic": "Getting Started with ai-engineering-from-scratch",
@@ -837,5 +838,5 @@
       "updated_at": "2026-06-19T11:53:59.613238"
     }
   },
-  "updated_at": "2026-06-19T14:06:28.007149"
+  "updated_at": "2026-06-19T18:33:44.022107"
 }
