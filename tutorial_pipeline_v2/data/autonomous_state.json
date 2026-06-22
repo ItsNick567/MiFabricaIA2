@@ -54,6 +54,7 @@
     "2026-06-21|publish|18",
     "2026-06-21|trends|06",
     "2026-06-22|publish|09",
+    "2026-06-22|publish|13",
     "2026-06-22|trends|06"
   ],
   "required_platforms": [
@@ -846,7 +847,27 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-hyperframes-can-be-an-exciting-experience-especially-for-developers-looking-2d7d"
       },
       "updated_at": "2026-06-22T09:19:09.725864"
+    },
+    "welcomethreadv380": {
+      "topic": "Welcome Thread - v380",
+      "title": "Welcome to this tutorial on the Welcome Thread - v380. In this comprehensive guide, we will walk you through the process of setting up and u",
+      "tutorial_id": "20260622_140439_2a343e",
+      "platforms_success": [],
+      "urls": {},
+      "updated_at": "2026-06-22T14:04:59.141903"
+    },
+    "askdevcommunitymod": {
+      "topic": "Ask a DEV Community Mod! 🚀",
+      "title": "Welcome to the Ask a DEV Community Mod tutorial, designed to help beginner to intermediate developers navigate the DEV Community platform an",
+      "tutorial_id": "20260622_140503_13e0c8",
+      "platforms_success": [
+        "devto"
+      ],
+      "urls": {
+        "devto": "https://dev.to/autonomousworld/welcome-to-the-ask-a-dev-community-mod-tutorial-designed-to-help-beginner-to-intermediate-cmk"
+      },
+      "updated_at": "2026-06-22T14:05:18.944107"
     }
   },
-  "updated_at": "2026-06-22T09:19:09.727771"
+  "updated_at": "2026-06-22T14:05:18.946185"
 }
