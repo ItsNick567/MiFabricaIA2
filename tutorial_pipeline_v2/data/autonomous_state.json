@@ -53,6 +53,7 @@
     "2026-06-23|publish|13",
     "2026-06-23|publish|18",
     "2026-06-23|trends|06",
+    "2026-06-24|publish|09",
     "2026-06-24|trends|06"
   ],
   "required_platforms": [
@@ -79,9 +80,9 @@
       "updated_at": "2026-06-07T14:14:44.270861"
     },
     "claudecode": {
-      "topic": "Getting Started with free-claude-code",
-      "title": "Getting started with free-claude-code can be an exciting venture for developers looking to explore new possibilities in coding. Free-claude-",
-      "tutorial_id": "20260527_163827_59e28c",
+      "topic": "Getting Started with claude-code",
+      "title": "Getting started with claude-code can be an exciting experience, especially for developers who are looking to explore new technologies and im",
+      "tutorial_id": "20260624_093049_781e50",
       "platforms_success": [
         "blogger",
         "hashnode"
@@ -90,7 +91,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-everything-claude-code-can-be-an-exciting-and-rewarding-experience-especially-for-beginner-to-intermediate-developers",
         "blogger": "https://autonomousworlddev.blogspot.com/2026/03/getting-started-with-everything-claude.html"
       },
-      "updated_at": "2026-05-27T16:38:37.780153"
+      "updated_at": "2026-06-24T09:30:59.097485"
     },
     "uiuxpromaxskill": {
       "topic": "Getting Started with ui-ux-pro-max-skill",
@@ -331,7 +332,7 @@
     "cli": {
       "topic": "Getting Started with cli",
       "title": "The Command Line Interface (CLI) is a powerful tool that allows developers to interact with their operating system and execute commands to p",
-      "tutorial_id": "20260608_140615_53191f",
+      "tutorial_id": "20260624_093035_9ead43",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -340,12 +341,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/the-command-line-interface-cli-is-a-powerful-tool-for-developers-allowing-them-to-interact-with-their-operating-system-and-execute-comman",
         "devto": "https://dev.to/autonomousworld/the-command-line-interface-cli-is-a-powerful-tool-that-allows-developers-to-interact-with-their-2hk5"
       },
-      "updated_at": "2026-06-08T14:06:25.332399"
+      "updated_at": "2026-06-24T09:30:45.079326"
     },
     "autoresearch": {
       "topic": "Getting Started with autoresearch",
-      "title": "Getting started with autoresearch can be an exciting and rewarding experience, especially for developers who are interested in automating re",
-      "tutorial_id": "20260623_184903_89de6a",
+      "title": "Getting started with autoresearch can be a daunting task, especially for beginner to intermediate developers. Autoresearch is a powerful too",
+      "tutorial_id": "20260624_092636_4b0aff",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -354,12 +355,12 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-autoresearch-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-autoresearch-is-a-powerful-too",
         "devto": "https://dev.to/autonomousworld/introduction-to-autoresearch-1n6f"
       },
-      "updated_at": "2026-06-23T18:49:14.002021"
+      "updated_at": "2026-06-24T09:26:46.529586"
     },
     "paperclip": {
       "topic": "Getting Started with paperclip",
       "title": "Paperclip is a popular Ruby gem used for handling file uploads in Ruby on Rails applications. It provides a simple and efficient way to uplo",
-      "tutorial_id": "20260623_184949_223487",
+      "tutorial_id": "20260624_092723_767638",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -368,7 +369,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/paperclip-is-a-popular-ruby-gem-used-for-handling-file-uploads-in-ruby-on-rails-applications-it-provides-a-simple-and-efficient-way-to-uplo",
         "devto": "https://dev.to/autonomousworld/paperclip-is-a-popular-ruby-gem-used-for-handling-file-uploads-in-ruby-on-rails-applications-it-gde"
       },
-      "updated_at": "2026-06-23T18:49:59.969027"
+      "updated_at": "2026-06-24T09:27:32.518347"
     },
     "mirofish": {
       "topic": "Getting Started with MiroFish",
@@ -400,8 +401,8 @@
     },
     "gstack": {
       "topic": "Getting Started with gstack",
-      "title": "Getting started with gstack can be a daunting task, especially for beginner to intermediate developers. However, with the right guidance, yo",
-      "tutorial_id": "20260623_184831_d732a6",
+      "title": "Getting started with `gstack` can be a daunting task, especially for beginner to intermediate developers. However, with the right guidance,",
+      "tutorial_id": "20260624_092606_722a61",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -410,7 +411,7 @@
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-gstack-can-be-an-exciting-and-rewarding-experience-especially-for-developers-looking-to-streamline-their-workflow-and",
         "devto": "https://dev.to/autonomousworld/getting-started-with-gstack-can-be-an-exciting-venture-especially-for-developers-looking-to-38bo"
       },
-      "updated_at": "2026-06-23T18:48:41.741542"
+      "updated_at": "2026-06-24T09:26:15.516993"
     },
     "clianything": {
       "topic": "Getting Started with CLI-Anything",
@@ -452,8 +453,8 @@
     },
     "pretext": {
       "topic": "Getting Started with pretext",
-      "title": "Getting started with pretext can be an exciting and rewarding experience, especially for developers who are interested in natural language p",
-      "tutorial_id": "20260623_185155_1cc46d",
+      "title": "Getting started with pretext can be a daunting task, especially for beginner to intermediate developers. Pretext is a powerful tool used for",
+      "tutorial_id": "20260624_092905_10566b",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -462,36 +463,36 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-pretext-can-be-an-exciting-venture-for-developers-looking-to-create-and-manage-jg1",
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-pretext-can-be-an-exciting-venture-for-developers-looking-to-create-and-manage-text-based-content-in-a-more-efficient-a"
       },
-      "updated_at": "2026-06-23T18:52:06.323479"
+      "updated_at": "2026-06-24T09:29:15.051727"
     },
     "clawcode": {
       "topic": "Getting Started with claw-code",
-      "title": "Getting started with claw-code can be an exciting experience, especially for beginner to intermediate developers. Claw-code is a powerful to",
-      "tutorial_id": "20260623_184812_8eec4a",
+      "title": "Getting started with claw-code can be an exciting experience, especially for developers looking to expand their skill set. Claw-code is a po",
+      "tutorial_id": "20260624_092548_36be66",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-claw-code-can-be-an-exciting-experience-especially-for-beginner-to-intermediate-developers-claw-code-is-a-powerful-to"
       },
-      "updated_at": "2026-06-23T18:48:28.149729"
+      "updated_at": "2026-06-24T09:26:03.138404"
     },
     "awesomedesignmd": {
       "topic": "Getting Started with awesome-design-md",
-      "title": "Getting started with awesome-design-md can be an exciting experience, especially for developers looking to create visually appealing and use",
-      "tutorial_id": "20260623_184845_910a6c",
+      "title": "Getting started with `awesome-design-md` can be an exciting experience, especially for developers who want to create stunning documentation",
+      "tutorial_id": "20260624_092618_ae8e20",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-awesome-design-md-can-be-an-exciting-venture-especially-for-developers-looking-to-enhance-their-documentation-and-proj"
       },
-      "updated_at": "2026-06-23T18:49:00.390871"
+      "updated_at": "2026-06-24T09:26:33.216709"
     },
     "openclaude": {
       "topic": "Getting Started with openclaude",
-      "title": "Introduction to openclaude",
-      "tutorial_id": "20260623_133230_2b1526",
+      "title": "OpenClaude is an open-source, Python-based framework designed to simplify the development of natural language processing (NLP) and machine l",
+      "tutorial_id": "20260624_093004_d6c554",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -500,12 +501,12 @@
         "devto": "https://dev.to/autonomousworld/introduction-to-openclaude-1goh",
         "hashnode": "https://autonomousworld.hashnode.dev/introduction-to-openclaude"
       },
-      "updated_at": "2026-06-23T13:32:41.376479"
+      "updated_at": "2026-06-24T09:30:14.142638"
     },
     "mempalace": {
       "topic": "Getting Started with mempalace",
-      "title": "Getting started with Mempalace can be an exciting venture, especially for developers looking to improve their memory and retention skills. M",
-      "tutorial_id": "20260623_185120_80bba8",
+      "title": "Welcome to this comprehensive tutorial on getting started with Mempal, a simple in-memory key-value store. Mempal is designed to provide a l",
+      "tutorial_id": "20260624_092833_56ae36",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -514,7 +515,7 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-mempalace-can-be-an-exciting-venture-especially-for-developers-looking-to-3fj4",
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-mempalace-can-be-an-exciting-venture-especially-for-developers-looking-to-leverage-the-power-of-memory-based-data-stor"
       },
-      "updated_at": "2026-06-23T18:51:31.386947"
+      "updated_at": "2026-06-24T09:28:43.488934"
     },
     "careerops": {
       "topic": "Getting Started with career-ops",
@@ -542,8 +543,8 @@
     },
     "caveman": {
       "topic": "Getting Started with caveman",
-      "title": "Getting started with Caveman can be an exciting experience, especially for developers looking to build robust and scalable web applications.",
-      "tutorial_id": "20260623_184936_18ac0d",
+      "title": "Getting started with Caveman, a Clojure web framework, can be an exciting experience for developers looking to build robust and scalable web",
+      "tutorial_id": "20260624_092710_ee6624",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -552,12 +553,12 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-caveman-a-lightweight-and-flexible-php-framework-can-be-a-great-way-to-build-ghh",
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-caveman-a-lightweight-and-flexible-php-framework-can-be-a-great-way-to-build-robust-web-applications-caveman-is-desi"
       },
-      "updated_at": "2026-06-23T18:49:46.786872"
+      "updated_at": "2026-06-24T09:27:19.919193"
     },
     "graphify": {
       "topic": "Getting Started with graphify",
-      "title": "Getting started with graphify can be an exciting venture, especially for developers looking to visualize and analyze complex data relationsh",
-      "tutorial_id": "20260623_185004_63414d",
+      "title": "Getting started with graphify can be an exciting experience, especially for developers who are interested in data visualization and graph an",
+      "tutorial_id": "20260624_092736_a280b4",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -566,7 +567,7 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-graphify-can-seem-daunting-but-with-the-right-guidance-you-can-unlock-the-30gi",
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-graphify-can-seem-daunting-but-with-the-right-guidance-you-can-unlock-the-full-potential-of-this-powerful-tool-graph"
       },
-      "updated_at": "2026-06-23T18:50:14.929684"
+      "updated_at": "2026-06-24T09:27:45.782236"
     },
     "rtk": {
       "topic": "Getting Started with rtk",
@@ -638,15 +639,15 @@
     },
     "opendesign": {
       "topic": "Getting Started with open-design",
-      "title": "Open-design is an open-source platform that enables developers to create, share, and collaborate on designs for various applications, includ",
-      "tutorial_id": "20260623_185018_d412e0",
+      "title": "Getting started with open-design can be an exciting and creative journey for developers. Open-design is an approach to designing and buildin",
+      "tutorial_id": "20260624_092751_5f019b",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-open-design-can-be-an-exciting-venture-for-developers-as-it-allows-for-the-creation-of-customizable-and-modular-system"
       },
-      "updated_at": "2026-06-23T18:50:34.126930"
+      "updated_at": "2026-06-24T09:28:07.387175"
     },
     "marketingskills": {
       "topic": "Getting Started with marketingskills",
@@ -708,11 +709,11 @@
     },
     "understandanything": {
       "topic": "Getting Started with Understand-Anything",
-      "title": "Welcome to this comprehensive tutorial on getting started with Understand-Anything, a powerful tool designed to help developers like you und",
-      "tutorial_id": "20260623_185037_04ccc7",
+      "title": "Getting Started with Understand-Anything",
+      "tutorial_id": "20260624_092811_686b6b",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-06-23T18:50:57.547602"
+      "updated_at": "2026-06-24T09:28:30.666863"
     },
     "awesomeairesearchwriting": {
       "topic": "Getting Started with awesome-ai-research-writing",
@@ -776,31 +777,31 @@
     },
     "odysseus": {
       "topic": "Getting Started with odysseus",
-      "title": "Getting started with Odysseus can be an exciting venture, especially for developers looking to dive into the world of stream processing and",
-      "tutorial_id": "20260623_184917_b05429",
+      "title": "Getting started with odysseus can be an exciting experience, especially for developers who are looking to create complex data processing pip",
+      "tutorial_id": "20260624_092652_f04df1",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/odysseus-is-an-open-source-distributed-and-highly-scalable-data-integration-framework-that-allows-2b5l"
       },
-      "updated_at": "2026-06-23T18:49:32.927567"
+      "updated_at": "2026-06-24T09:27:06.518598"
     },
     "aiengineeringscratch": {
       "topic": "Getting Started with ai-engineering-from-scratch",
-      "title": "Getting started with AI engineering from scratch can be a daunting task, especially for beginner to intermediate developers. The field of ar",
-      "tutorial_id": "20260623_185254_79665a",
+      "title": "Getting started with AI engineering from scratch can be a daunting task, especially for beginner to intermediate developers. Artificial Inte",
+      "tutorial_id": "20260624_092918_478895",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-06-23T18:53:15.308654"
+      "updated_at": "2026-06-24T09:29:38.326367"
     },
     "academicresearchskills": {
       "topic": "Getting Started with academic-research-skills",
       "title": "Getting started with academic research skills is essential for developers who want to stay up-to-date with the latest technologies and advan",
-      "tutorial_id": "20260623_185319_dd103f",
+      "tutorial_id": "20260624_092942_90ca92",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-06-23T18:53:39.045917"
+      "updated_at": "2026-06-24T09:30:01.639913"
     },
     "cloakbrowser": {
       "topic": "Getting Started with CloakBrowser",
@@ -824,27 +825,27 @@
     },
     "ponytail": {
       "topic": "Getting Started with ponytail",
-      "title": "Getting started with Ponytail, a lightweight and flexible framework, can be an exciting experience for developers. Ponytail is designed to s",
-      "tutorial_id": "20260623_185137_c8d115",
+      "title": "Ponytail is a lightweight, open-source framework designed to simplify the development of web applications. It provides a robust set of tools",
+      "tutorial_id": "20260624_092846_9d6543",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-ponytail-a-lightweight-and-flexible-framework-can-be-an-exciting-experience-5edh"
       },
-      "updated_at": "2026-06-23T18:51:52.081227"
+      "updated_at": "2026-06-24T09:29:01.247094"
     },
     "hyperframes": {
       "topic": "Getting Started with hyperframes",
-      "title": "Hyperframes is a powerful tool for building robust and scalable web applications. It provides a flexible framework for creating complex user",
-      "tutorial_id": "20260623_133244_8314c1",
+      "title": "Introduction to Hyperframes",
+      "tutorial_id": "20260624_093017_f29f2a",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-hyperframes-can-be-an-exciting-experience-especially-for-developers-looking-2d7d"
       },
-      "updated_at": "2026-06-23T13:32:59.567808"
+      "updated_at": "2026-06-24T09:30:31.743685"
     },
     "welcomethreadv380": {
       "topic": "Welcome Thread - v380",
@@ -865,7 +866,15 @@
         "devto": "https://dev.to/autonomousworld/welcome-to-the-ask-a-dev-community-mod-tutorial-designed-to-help-beginner-to-intermediate-cmk"
       },
       "updated_at": "2026-06-22T14:05:18.944107"
+    },
+    "nuwaskill": {
+      "topic": "Getting Started with nuwa-skill",
+      "title": "Getting started with nuwa-skill can be an exciting journey for developers looking to enhance their projects with AI-powered capabilities. Nu",
+      "tutorial_id": "20260624_093102_2e7e26",
+      "platforms_success": [],
+      "urls": {},
+      "updated_at": "2026-06-24T09:31:22.764991"
     }
   },
-  "updated_at": "2026-06-24T06:56:25.693547"
+  "updated_at": "2026-06-24T09:31:22.767163"
 }
