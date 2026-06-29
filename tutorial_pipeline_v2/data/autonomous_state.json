@@ -54,6 +54,7 @@
     "2026-06-28|publish|18",
     "2026-06-28|trends|06",
     "2026-06-29|publish|09",
+    "2026-06-29|publish|13",
     "2026-06-29|trends|06"
   ],
   "required_platforms": [
@@ -910,7 +911,19 @@
         "devto": "https://dev.to/autonomousworld/introduction-to-openmontage-g0c"
       },
       "updated_at": "2026-06-28T13:25:21.689706"
+    },
+    "ambehindcanproveitbut": {
+      "topic": "I am behind, and I can't prove it but does it matter?",
+      "title": "As developers, we often find ourselves in situations where we feel like we're behind schedule, but we can't quite prove it. This feeling can",
+      "tutorial_id": "20260629_141823_75832d",
+      "platforms_success": [
+        "devto"
+      ],
+      "urls": {
+        "devto": "https://dev.to/autonomousworld/as-developers-we-often-find-ourselves-in-situations-where-we-feel-like-were-behind-schedule-but-2e8d"
+      },
+      "updated_at": "2026-06-29T14:18:38.253948"
     }
   },
-  "updated_at": "2026-06-29T12:10:12.160558"
+  "updated_at": "2026-06-29T14:18:38.268103"
 }
