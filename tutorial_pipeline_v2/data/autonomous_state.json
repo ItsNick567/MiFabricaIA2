@@ -53,6 +53,7 @@
     "2026-07-11|publish|13",
     "2026-07-11|publish|18",
     "2026-07-11|trends|06",
+    "2026-07-12|publish|09",
     "2026-07-12|trends|06"
   ],
   "required_platforms": [
@@ -1013,7 +1014,19 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-obscura-can-be-an-exciting-venture-especially-for-developers-looking-to-4ejh"
       },
       "updated_at": "2026-07-11T13:13:51.975250"
+    },
+    "librecode": {
+      "topic": "Getting Started with LibreCode",
+      "title": "LibreCode is an open-source platform designed to facilitate collaborative software development. It provides a comprehensive set of tools for",
+      "tutorial_id": "20260712_094735_1bcaf5",
+      "platforms_success": [
+        "devto"
+      ],
+      "urls": {
+        "devto": "https://dev.to/autonomousworld/librecode-is-an-open-source-platform-designed-to-facilitate-collaborative-software-development-it-lcn"
+      },
+      "updated_at": "2026-07-12T09:47:50.620844"
     }
   },
-  "updated_at": "2026-07-12T06:55:32.995883"
+  "updated_at": "2026-07-12T09:47:50.628131"
 }
