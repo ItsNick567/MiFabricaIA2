@@ -55,6 +55,7 @@
     "2026-07-15|trends|06",
     "2026-07-16|publish|09",
     "2026-07-16|publish|13",
+    "2026-07-16|publish|18",
     "2026-07-16|trends|06"
   ],
   "required_platforms": [
@@ -468,27 +469,27 @@
     },
     "clawcode": {
       "topic": "Getting Started with claw-code",
-      "title": "Getting started with claw-code can be an exciting experience, especially for developers looking to explore new programming paradigms. Claw-c",
-      "tutorial_id": "20260716_141036_1658f9",
+      "title": "Getting started with claw-code can be an exciting experience, especially for developers who are looking to improve their coding skills. Claw",
+      "tutorial_id": "20260716_183023_72b1f2",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-claw-code-can-be-an-exciting-experience-especially-for-beginner-to-intermediate-developers-claw-code-is-a-powerful-to"
       },
-      "updated_at": "2026-07-16T14:10:52.641818"
+      "updated_at": "2026-07-16T18:30:38.772961"
     },
     "awesomedesignmd": {
       "topic": "Getting Started with awesome-design-md",
-      "title": "Getting started with awesome-design-md can be an exciting experience, especially for developers looking to create stunning documentation and",
-      "tutorial_id": "20260716_141056_46bd85",
+      "title": "Getting started with awesome-design-md can be an exciting experience, especially for developers who want to create stunning documentation wi",
+      "tutorial_id": "20260716_183042_79ffc7",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-awesome-design-md-can-be-an-exciting-venture-especially-for-developers-looking-to-enhance-their-documentation-and-proj"
       },
-      "updated_at": "2026-07-16T14:15:43.501782"
+      "updated_at": "2026-07-16T18:32:17.019449"
     },
     "openclaude": {
       "topic": "Getting Started with openclaude",
@@ -544,8 +545,8 @@
     },
     "caveman": {
       "topic": "Getting Started with caveman",
-      "title": "Getting started with Caveman, a Clojure web framework, can be an exciting experience for developers looking to build robust and scalable web",
-      "tutorial_id": "20260716_141129_823e9e",
+      "title": "Getting started with Caveman can be an exciting experience, especially for developers looking to build robust and scalable web applications.",
+      "tutorial_id": "20260716_183115_4f0053",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -554,12 +555,12 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-caveman-a-lightweight-and-flexible-php-framework-can-be-a-great-way-to-build-ghh",
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-caveman-a-lightweight-and-flexible-php-framework-can-be-a-great-way-to-build-robust-web-applications-caveman-is-desi"
       },
-      "updated_at": "2026-07-16T14:11:40.362913"
+      "updated_at": "2026-07-16T18:31:25.670513"
     },
     "graphify": {
       "topic": "Getting Started with graphify",
-      "title": "Getting started with graphify can be an exciting experience, especially for developers who are interested in visualizing and analyzing compl",
-      "tutorial_id": "20260716_141115_627a12",
+      "title": "Getting started with graphify can be an exciting experience, especially for developers who are interested in data visualization and graph th",
+      "tutorial_id": "20260716_183059_63763e",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -568,7 +569,7 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-graphify-can-seem-daunting-but-with-the-right-guidance-you-can-unlock-the-30gi",
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-graphify-can-seem-daunting-but-with-the-right-guidance-you-can-unlock-the-full-potential-of-this-powerful-tool-graph"
       },
-      "updated_at": "2026-07-16T14:11:26.012029"
+      "updated_at": "2026-07-16T18:31:09.618191"
     },
     "rtk": {
       "topic": "Getting Started with rtk",
@@ -778,15 +779,15 @@
     },
     "odysseus": {
       "topic": "Getting Started with odysseus",
-      "title": "Getting started with Odysseus can be an exciting experience, especially for developers who are looking to work with a powerful and flexible",
-      "tutorial_id": "20260716_141144_b6d759",
+      "title": "Getting started with odysseus can be an exciting experience, especially for developers looking to work with a powerful and flexible data pro",
+      "tutorial_id": "20260716_183129_5727f6",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/odysseus-is-an-open-source-distributed-and-highly-scalable-data-integration-framework-that-allows-2b5l"
       },
-      "updated_at": "2026-07-16T14:11:59.279146"
+      "updated_at": "2026-07-16T18:31:43.643426"
     },
     "aiengineeringscratch": {
       "topic": "Getting Started with ai-engineering-from-scratch",
@@ -826,15 +827,15 @@
     },
     "ponytail": {
       "topic": "Getting Started with ponytail",
-      "title": "Getting started with Ponytail, a lightweight and efficient programming language, can be an exciting experience for developers. Ponytail is d",
-      "tutorial_id": "20260716_141203_aa2602",
+      "title": "Getting started with Ponytail, a lightweight and efficient framework, can be an exciting experience for developers. Ponytail is designed to",
+      "tutorial_id": "20260716_183146_9ed302",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-ponytail-a-lightweight-and-flexible-framework-can-be-an-exciting-experience-5edh"
       },
-      "updated_at": "2026-07-16T14:12:18.056729"
+      "updated_at": "2026-07-16T18:32:01.144720"
     },
     "hyperframes": {
       "topic": "Getting Started with hyperframes",
@@ -1053,5 +1054,5 @@
       "updated_at": "2026-07-13T09:07:44.083283"
     }
   },
-  "updated_at": "2026-07-16T14:16:07.389193"
+  "updated_at": "2026-07-16T18:32:17.206839"
 }
