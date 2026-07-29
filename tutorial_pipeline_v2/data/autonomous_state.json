@@ -53,6 +53,7 @@
     "2026-07-28|publish|13",
     "2026-07-28|publish|18",
     "2026-07-28|trends|06",
+    "2026-07-29|publish|09",
     "2026-07-29|trends|06"
   ],
   "required_platforms": [
@@ -519,14 +520,14 @@
     "careerops": {
       "topic": "Getting Started with career-ops",
       "title": "Getting started with career-ops can be an exciting and challenging experience for developers. Career-ops, also known as career operations, r",
-      "tutorial_id": "20260728_183650_7e8bf9",
+      "tutorial_id": "20260729_105338_c7eb18",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-career-ops-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-career-ops-also-known-as-career"
       },
-      "updated_at": "2026-07-28T18:37:05.241132"
+      "updated_at": "2026-07-29T10:53:53.018900"
     },
     "andrejkarpathyskills": {
       "topic": "Getting Started with andrej-karpathy-skills",
@@ -542,8 +543,8 @@
     },
     "caveman": {
       "topic": "Getting Started with caveman",
-      "title": "Getting started with Caveman, a Clojure web framework, can be an exciting experience for developers looking to build robust and scalable web",
-      "tutorial_id": "20260728_183544_6c945c",
+      "title": "Getting started with Caveman, a Clojure web framework, can be an exciting venture for developers looking to build robust and scalable web ap",
+      "tutorial_id": "20260729_105306_594fea",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -552,7 +553,7 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-caveman-a-lightweight-and-flexible-php-framework-can-be-a-great-way-to-build-ghh",
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-caveman-a-lightweight-and-flexible-php-framework-can-be-a-great-way-to-build-robust-web-applications-caveman-is-desi"
       },
-      "updated_at": "2026-07-28T18:35:53.754679"
+      "updated_at": "2026-07-29T10:53:16.742354"
     },
     "graphify": {
       "topic": "Getting Started with graphify",
@@ -824,15 +825,15 @@
     },
     "ponytail": {
       "topic": "Getting Started with ponytail",
-      "title": "Getting started with Ponytail, a lightweight and flexible framework, can be an exciting experience for developers. Ponytail is designed to s",
-      "tutorial_id": "20260728_183557_f8d668",
+      "title": "Getting started with Ponytail, a JavaScript library for building modular and reusable UI components, can be an exciting venture for develope",
+      "tutorial_id": "20260729_105320_0abc86",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-ponytail-a-lightweight-and-flexible-framework-can-be-an-exciting-experience-5edh"
       },
-      "updated_at": "2026-07-28T18:36:11.478056"
+      "updated_at": "2026-07-29T10:53:35.120836"
     },
     "hyperframes": {
       "topic": "Getting Started with hyperframes",
@@ -932,11 +933,11 @@
     },
     "deepseekreasonix": {
       "topic": "Getting Started with DeepSeek-Reasonix",
-      "title": "Getting Started with DeepSeek-Reasonix",
-      "tutorial_id": "20260728_142322_fa8656",
+      "title": "DeepSeek-Reasonix is a powerful tool designed to simplify the process of building and deploying artificial intelligence (AI) and machine lea",
+      "tutorial_id": "20260729_105357_9f4e21",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-07-28T14:23:43.163164"
+      "updated_at": "2026-07-29T10:54:17.042097"
     },
     "natureskills": {
       "topic": "Getting Started with nature-skills",
@@ -956,15 +957,15 @@
     },
     "codexplusplus": {
       "topic": "Getting Started with CodexPlusPlus",
-      "title": "Introduction to CodexPlusPlus",
-      "tutorial_id": "20260728_142346_7fd114",
+      "title": "Getting Started with CodexPlusPlus",
+      "tutorial_id": "20260729_105420_6e1e7a",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-codexplusplus-2p1a"
       },
-      "updated_at": "2026-07-28T14:24:01.812637"
+      "updated_at": "2026-07-29T10:54:35.269756"
     },
     "nemoclaw": {
       "topic": "Getting Started with NemoClaw",
@@ -1004,15 +1005,15 @@
     },
     "obscura": {
       "topic": "Getting Started with obscura",
-      "title": "Obscura is a powerful and flexible library used for image processing and manipulation. It provides a wide range of tools and features that a",
-      "tutorial_id": "20260723_102146_f0285e",
+      "title": "Getting started with Obscura can be an exciting venture, especially for developers looking to explore new technologies. Obscura is a powerfu",
+      "tutorial_id": "20260729_105544_50612e",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-obscura-can-be-an-exciting-venture-especially-for-developers-looking-to-4ejh"
       },
-      "updated_at": "2026-07-23T10:22:00.518024"
+      "updated_at": "2026-07-29T10:55:58.608215"
     },
     "librecode": {
       "topic": "Getting Started with LibreCode",
@@ -1037,10 +1038,10 @@
     "huashudesign": {
       "topic": "Getting Started with huashu-design",
       "title": "Getting started with huashu-design can be an exciting experience, especially for developers looking to create visually appealing and user-fr",
-      "tutorial_id": "20260728_142444_507414",
+      "tutorial_id": "20260729_105502_cc7980",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-07-28T14:25:05.093890"
+      "updated_at": "2026-07-29T10:55:23.052998"
     },
     "guizangpptskill": {
       "topic": "Getting Started with guizang-ppt-skill",
@@ -1060,23 +1061,23 @@
     },
     "grokbuild": {
       "topic": "Getting Started with grok-build",
-      "title": "Getting started with grok-build can seem daunting, but with the right guidance, you can quickly become proficient in using this powerful too",
-      "tutorial_id": "20260728_142420_9fcadf",
+      "title": "Getting started with grok-build can be an exciting experience, especially for developers looking to streamline their development workflow. g",
+      "tutorial_id": "20260729_105439_c9330f",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-07-28T14:24:41.026990"
+      "updated_at": "2026-07-29T10:54:59.000286"
     },
     "colibri": {
       "topic": "Getting Started with colibri",
-      "title": "Getting started with Colibri can be an exciting experience, especially for developers looking to improve their workflow and productivity. Co",
-      "tutorial_id": "20260727_113100_70dcc3",
+      "title": "Getting started with Colibri can be an exciting experience, especially for developers looking to explore new technologies. Colibri is a ligh",
+      "tutorial_id": "20260729_105526_8f2daf",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-colibri-can-be-an-exciting-experience-especially-for-developers-looking-to-11hc"
       },
-      "updated_at": "2026-07-27T11:31:15.328246"
+      "updated_at": "2026-07-29T10:55:40.718572"
     },
     "unlimitedocr": {
       "topic": "Getting Started with Unlimited-OCR",
@@ -1085,7 +1086,19 @@
       "platforms_success": [],
       "urls": {},
       "updated_at": "2026-07-27T11:31:38.726043"
+    },
+    "hallmark": {
+      "topic": "Getting Started with hallmark",
+      "title": "Getting started with Hallmark, a popular testing framework, can seem daunting at first, but with the right guidance, you can quickly become",
+      "tutorial_id": "20260729_105602_3b8a93",
+      "platforms_success": [
+        "devto"
+      ],
+      "urls": {
+        "devto": "https://dev.to/autonomousworld/getting-started-with-hallmark-a-popular-testing-framework-can-seem-daunting-at-first-but-with-2513"
+      },
+      "updated_at": "2026-07-29T10:56:17.745627"
     }
   },
-  "updated_at": "2026-07-29T06:10:33.984070"
+  "updated_at": "2026-07-29T10:56:17.748203"
 }
