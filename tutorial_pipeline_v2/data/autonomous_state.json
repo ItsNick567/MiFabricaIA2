@@ -55,6 +55,7 @@
     "2026-07-29|trends|06",
     "2026-07-30|publish|09",
     "2026-07-30|publish|13",
+    "2026-07-30|publish|18",
     "2026-07-30|trends|06"
   ],
   "required_platforms": [
@@ -506,8 +507,8 @@
     },
     "mempalace": {
       "topic": "Getting Started with mempalace",
-      "title": "Welcome to this comprehensive tutorial on getting started with Mempalace, a powerful tool for building and managing memory-based data struct",
-      "tutorial_id": "20260730_135906_985054",
+      "title": "Getting started with Mempalace can be an exciting venture, especially for developers looking to create immersive and interactive experiences",
+      "tutorial_id": "20260730_183924_6c00a9",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -516,19 +517,19 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-mempalace-can-be-an-exciting-venture-especially-for-developers-looking-to-3fj4",
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-mempalace-can-be-an-exciting-venture-especially-for-developers-looking-to-leverage-the-power-of-memory-based-data-stor"
       },
-      "updated_at": "2026-07-30T13:59:16.497431"
+      "updated_at": "2026-07-30T18:39:35.160869"
     },
     "careerops": {
       "topic": "Getting Started with career-ops",
       "title": "Getting started with career-ops can be an exciting and challenging experience for developers. Career-ops, also known as career operations, r",
-      "tutorial_id": "20260730_135848_13a4e9",
+      "tutorial_id": "20260730_183905_fcfc91",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-career-ops-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-career-ops-also-known-as-career"
       },
-      "updated_at": "2026-07-30T13:59:02.741296"
+      "updated_at": "2026-07-30T18:39:20.435540"
     },
     "andrejkarpathyskills": {
       "topic": "Getting Started with andrej-karpathy-skills",
@@ -545,7 +546,7 @@
     "caveman": {
       "topic": "Getting Started with caveman",
       "title": "Getting started with Caveman, a Clojure web framework, can be an exciting experience for developers looking to build robust and scalable web",
-      "tutorial_id": "20260730_135741_bc794b",
+      "tutorial_id": "20260730_183755_df4cab",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -554,7 +555,7 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-caveman-a-lightweight-and-flexible-php-framework-can-be-a-great-way-to-build-ghh",
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-caveman-a-lightweight-and-flexible-php-framework-can-be-a-great-way-to-build-robust-web-applications-caveman-is-desi"
       },
-      "updated_at": "2026-07-30T13:57:50.823385"
+      "updated_at": "2026-07-30T18:38:06.279206"
     },
     "graphify": {
       "topic": "Getting Started with graphify",
@@ -640,15 +641,15 @@
     },
     "opendesign": {
       "topic": "Getting Started with open-design",
-      "title": "Getting started with open-design can be an exciting and creative journey for developers. Open-design is an approach to designing and develop",
-      "tutorial_id": "20260730_135812_69ad49",
+      "title": "Getting started with open-design can be an exciting journey for developers, as it allows for the creation of customizable and modular system",
+      "tutorial_id": "20260730_183828_13ae0f",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-open-design-can-be-an-exciting-venture-for-developers-as-it-allows-for-the-creation-of-customizable-and-modular-system"
       },
-      "updated_at": "2026-07-30T13:58:27.392194"
+      "updated_at": "2026-07-30T18:38:43.930832"
     },
     "marketingskills": {
       "topic": "Getting Started with marketingskills",
@@ -778,15 +779,15 @@
     },
     "odysseus": {
       "topic": "Getting Started with odysseus",
-      "title": "Getting started with odysseus can be an exciting experience, especially for developers who are interested in building scalable and efficient",
-      "tutorial_id": "20260730_135830_4493a3",
+      "title": "Getting started with odysseus can be an exciting venture, especially for developers looking to leverage the power of big data and real-time",
+      "tutorial_id": "20260730_183847_78a59c",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/odysseus-is-an-open-source-distributed-and-highly-scalable-data-integration-framework-that-allows-2b5l"
       },
-      "updated_at": "2026-07-30T13:58:45.298031"
+      "updated_at": "2026-07-30T18:39:02.268629"
     },
     "aiengineeringscratch": {
       "topic": "Getting Started with ai-engineering-from-scratch",
@@ -826,15 +827,15 @@
     },
     "ponytail": {
       "topic": "Getting Started with ponytail",
-      "title": "Getting started with Ponytail, a cutting-edge framework for building scalable and maintainable web applications, can seem daunting at first.",
-      "tutorial_id": "20260730_135754_52f9ce",
+      "title": "Getting started with Ponytail, a lightweight and flexible framework, can be an exciting experience for developers. Ponytail is designed to s",
+      "tutorial_id": "20260730_183810_9a6aa2",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-ponytail-a-lightweight-and-flexible-framework-can-be-an-exciting-experience-5edh"
       },
-      "updated_at": "2026-07-30T13:58:09.112601"
+      "updated_at": "2026-07-30T18:38:25.300799"
     },
     "hyperframes": {
       "topic": "Getting Started with hyperframes",
@@ -942,11 +943,11 @@
     },
     "natureskills": {
       "topic": "Getting Started with nature-skills",
-      "title": "Getting started with nature-skills can be an exciting venture for developers looking to explore the intersection of technology and the natur",
-      "tutorial_id": "20260730_135919_14f3c9",
+      "title": "Getting started with nature-skills can be an exciting and rewarding experience, especially for developers who are interested in exploring th",
+      "tutorial_id": "20260730_183939_5b5bdd",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-07-30T13:59:39.718161"
+      "updated_at": "2026-07-30T18:39:58.749664"
     },
     "codexplugincc": {
       "topic": "Getting Started with codex-plugin-cc",
@@ -1113,5 +1114,5 @@
       "updated_at": "2026-07-30T10:23:22.895307"
     }
   },
-  "updated_at": "2026-07-30T14:02:50.426111"
+  "updated_at": "2026-07-30T18:39:59.922887"
 }
