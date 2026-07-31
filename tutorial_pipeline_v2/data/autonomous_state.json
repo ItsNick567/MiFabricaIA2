@@ -55,6 +55,7 @@
     "2026-07-30|trends|06",
     "2026-07-31|publish|09",
     "2026-07-31|publish|13",
+    "2026-07-31|publish|18",
     "2026-07-31|trends|06"
   ],
   "required_platforms": [
@@ -520,15 +521,15 @@
     },
     "careerops": {
       "topic": "Getting Started with career-ops",
-      "title": "Getting started with career-ops can be an exciting and rewarding experience, especially for developers looking to enhance their skills and a",
-      "tutorial_id": "20260731_140700_d2b625",
+      "title": "Getting started with career-ops can be a daunting task, especially for beginner to intermediate developers. Career-ops, short for career ope",
+      "tutorial_id": "20260731_183535_325326",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-career-ops-can-be-a-daunting-task-especially-for-beginner-to-intermediate-developers-career-ops-also-known-as-career"
       },
-      "updated_at": "2026-07-31T14:07:15.716345"
+      "updated_at": "2026-07-31T18:35:51.026976"
     },
     "andrejkarpathyskills": {
       "topic": "Getting Started with andrej-karpathy-skills",
@@ -544,8 +545,8 @@
     },
     "caveman": {
       "topic": "Getting Started with caveman",
-      "title": "Getting started with caveman can be an exciting experience, especially for developers looking to explore new frameworks and tools. Caveman i",
-      "tutorial_id": "20260731_140554_ada9e3",
+      "title": "Getting started with caveman can be an exciting experience, especially for developers looking to explore new technologies. Caveman is a simp",
+      "tutorial_id": "20260731_183427_584932",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -554,12 +555,12 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-caveman-a-lightweight-and-flexible-php-framework-can-be-a-great-way-to-build-ghh",
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-caveman-a-lightweight-and-flexible-php-framework-can-be-a-great-way-to-build-robust-web-applications-caveman-is-desi"
       },
-      "updated_at": "2026-07-31T14:06:03.675711"
+      "updated_at": "2026-07-31T18:34:37.392383"
     },
     "graphify": {
       "topic": "Getting Started with graphify",
-      "title": "Getting started with graphify can be an exciting experience, especially for developers who are interested in data visualization and graph-ba",
-      "tutorial_id": "20260731_140538_d3156d",
+      "title": "Getting started with graphify can be an exciting venture, especially for developers looking to visualize and analyze complex data relationsh",
+      "tutorial_id": "20260731_183412_337acc",
       "platforms_success": [
         "devto",
         "hashnode"
@@ -568,7 +569,7 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-graphify-can-seem-daunting-but-with-the-right-guidance-you-can-unlock-the-30gi",
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-graphify-can-seem-daunting-but-with-the-right-guidance-you-can-unlock-the-full-potential-of-this-powerful-tool-graph"
       },
-      "updated_at": "2026-07-31T14:05:48.304493"
+      "updated_at": "2026-07-31T18:34:23.146297"
     },
     "rtk": {
       "topic": "Getting Started with rtk",
@@ -640,15 +641,15 @@
     },
     "opendesign": {
       "topic": "Getting Started with open-design",
-      "title": "Getting started with open-design can be an exciting and creative journey, especially for developers who are interested in designing and buil",
-      "tutorial_id": "20260731_140625_ab248c",
+      "title": "Getting started with open-design can be an exciting venture for developers, as it allows for the creation of customizable and flexible desig",
+      "tutorial_id": "20260731_183458_4015a1",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-open-design-can-be-an-exciting-venture-for-developers-as-it-allows-for-the-creation-of-customizable-and-modular-system"
       },
-      "updated_at": "2026-07-31T14:06:39.926039"
+      "updated_at": "2026-07-31T18:35:14.376830"
     },
     "marketingskills": {
       "topic": "Getting Started with marketingskills",
@@ -778,15 +779,15 @@
     },
     "odysseus": {
       "topic": "Getting Started with odysseus",
-      "title": "Odysseus is an open-source, Java-based framework used for developing big data processing applications. It provides a flexible and scalable p",
-      "tutorial_id": "20260731_140643_ad5d4e",
+      "title": "Getting started with Odysseus can be an exciting experience, especially for developers who are interested in building scalable and efficient",
+      "tutorial_id": "20260731_183517_dde8b2",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/odysseus-is-an-open-source-distributed-and-highly-scalable-data-integration-framework-that-allows-2b5l"
       },
-      "updated_at": "2026-07-31T14:06:58.039919"
+      "updated_at": "2026-07-31T18:35:32.077052"
     },
     "aiengineeringscratch": {
       "topic": "Getting Started with ai-engineering-from-scratch",
@@ -826,15 +827,15 @@
     },
     "ponytail": {
       "topic": "Getting Started with ponytail",
-      "title": "Getting started with Ponytail, a modern and efficient framework, can be an exciting experience for developers. Ponytail is designed to simpl",
-      "tutorial_id": "20260731_140606_d7980a",
+      "title": "Getting started with Ponytail, a Python-based framework for building scalable and maintainable web applications, can seem daunting at first.",
+      "tutorial_id": "20260731_183440_f90c5f",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-ponytail-a-lightweight-and-flexible-framework-can-be-an-exciting-experience-5edh"
       },
-      "updated_at": "2026-07-31T14:06:20.716975"
+      "updated_at": "2026-07-31T18:34:55.468847"
     },
     "hyperframes": {
       "topic": "Getting Started with hyperframes",
@@ -1082,11 +1083,11 @@
     },
     "unlimitedocr": {
       "topic": "Getting Started with Unlimited-OCR",
-      "title": "Getting Started with Unlimited-OCR",
-      "tutorial_id": "20260731_141104_6700af",
+      "title": "Unlimited-OCR is a powerful tool that enables developers to extract text from images and scanned documents with high accuracy. As a develope",
+      "tutorial_id": "20260731_183555_ec107b",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-07-31T14:11:24.114721"
+      "updated_at": "2026-07-31T18:36:14.810508"
     },
     "hallmark": {
       "topic": "Getting Started with hallmark",
@@ -1145,5 +1146,5 @@
       "updated_at": "2026-07-31T10:35:06.621024"
     }
   },
-  "updated_at": "2026-07-31T14:11:44.102898"
+  "updated_at": "2026-07-31T18:36:15.000081"
 }
