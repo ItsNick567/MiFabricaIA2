@@ -55,6 +55,7 @@
     "2026-08-01|trends|06",
     "2026-08-02|publish|09",
     "2026-08-02|publish|13",
+    "2026-08-02|publish|18",
     "2026-08-02|trends|06"
   ],
   "required_platforms": [
@@ -640,15 +641,15 @@
     },
     "opendesign": {
       "topic": "Getting Started with open-design",
-      "title": "Getting started with open-design can be an exciting and creative journey, especially for developers who are interested in designing and buil",
-      "tutorial_id": "20260802_130647_bfefed",
+      "title": "Getting started with open-design can be an exciting and creative journey, especially for developers who are looking to contribute to open-so",
+      "tutorial_id": "20260802_180224_8ff878",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-open-design-can-be-an-exciting-venture-for-developers-as-it-allows-for-the-creation-of-customizable-and-modular-system"
       },
-      "updated_at": "2026-08-02T13:07:02.423319"
+      "updated_at": "2026-08-02T18:02:38.166263"
     },
     "marketingskills": {
       "topic": "Getting Started with marketingskills",
@@ -779,14 +780,14 @@
     "odysseus": {
       "topic": "Getting Started with odysseus",
       "title": "Introduction to Odysseus",
-      "tutorial_id": "20260802_130706_2b07a4",
+      "tutorial_id": "20260802_180241_29de3f",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/odysseus-is-an-open-source-distributed-and-highly-scalable-data-integration-framework-that-allows-2b5l"
       },
-      "updated_at": "2026-08-02T13:07:21.044895"
+      "updated_at": "2026-08-02T18:02:56.001893"
     },
     "aiengineeringscratch": {
       "topic": "Getting Started with ai-engineering-from-scratch",
@@ -826,15 +827,15 @@
     },
     "ponytail": {
       "topic": "Getting Started with ponytail",
-      "title": "Getting Started with Ponytail",
-      "tutorial_id": "20260802_130629_ea5a87",
+      "title": "Getting started with Ponytail, a lightweight and flexible framework, can be an exciting experience for developers. Ponytail is designed to s",
+      "tutorial_id": "20260802_180205_8928a3",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-ponytail-a-lightweight-and-flexible-framework-can-be-an-exciting-experience-5edh"
       },
-      "updated_at": "2026-08-02T13:06:43.853289"
+      "updated_at": "2026-08-02T18:02:19.376472"
     },
     "hyperframes": {
       "topic": "Getting Started with hyperframes",
@@ -870,11 +871,11 @@
     },
     "nuwaskill": {
       "topic": "Getting Started with nuwa-skill",
-      "title": "Getting started with nuwa-skill can be an exciting journey, especially for developers looking to expand their skill set and explore new tech",
-      "tutorial_id": "20260802_101058_8e464d",
+      "title": "Getting started with nuwa-skill can be an exciting venture, especially for developers looking to enhance their projects with advanced functi",
+      "tutorial_id": "20260802_180321_6ed286",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-02T10:11:18.386024"
+      "updated_at": "2026-08-02T18:03:40.181343"
     },
     "opencli": {
       "topic": "Getting Started with OpenCLI",
@@ -890,15 +891,15 @@
     },
     "gbrain": {
       "topic": "Getting Started with gbrain",
-      "title": "Getting started with gbrain can be an exciting and rewarding experience, especially for developers looking to explore the world of artificia",
-      "tutorial_id": "20260802_130810_7081e3",
+      "title": "Getting started with gbrain can be an exciting experience, especially for beginner to intermediate developers looking to explore the world o",
+      "tutorial_id": "20260802_180406_84e3b3",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-gbrain-can-be-an-exciting-venture-especially-for-developers-looking-to-16h5"
       },
-      "updated_at": "2026-08-02T13:08:25.331860"
+      "updated_at": "2026-08-02T18:04:20.268715"
     },
     "openmontage": {
       "topic": "Getting Started with OpenMontage",
@@ -934,19 +935,19 @@
     },
     "deepseekreasonix": {
       "topic": "Getting Started with DeepSeek-Reasonix",
-      "title": "DeepSeek-Reasonix is a powerful tool designed to facilitate the development of artificial intelligence and machine learning models. It provi",
-      "tutorial_id": "20260802_130747_fc7741",
+      "title": "DeepSeek-Reasonix is a powerful tool for developers, enabling them to build and deploy complex AI models with ease. As a beginner to interme",
+      "tutorial_id": "20260802_180343_bd154f",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-02T13:08:07.295397"
+      "updated_at": "2026-08-02T18:04:02.669950"
     },
     "natureskills": {
       "topic": "Getting Started with nature-skills",
       "title": "Getting started with nature-skills can be an exciting venture for developers looking to explore the intersection of technology and the natur",
-      "tutorial_id": "20260802_130724_6e3e70",
+      "tutorial_id": "20260802_180259_3929c1",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-02T13:07:44.511956"
+      "updated_at": "2026-08-02T18:03:18.149918"
     },
     "codexplugincc": {
       "topic": "Getting Started with codex-plugin-cc",
@@ -958,15 +959,15 @@
     },
     "codexplusplus": {
       "topic": "Getting Started with CodexPlusPlus",
-      "title": "Introduction to CodexPlusPlus",
-      "tutorial_id": "20260802_130828_c6e6f7",
+      "title": "Getting started with CodexPlusPlus can seem daunting, but with the right guidance, you can unlock its full potential. CodexPlusPlus is a pow",
+      "tutorial_id": "20260802_180423_1ad588",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-codexplusplus-2p1a"
       },
-      "updated_at": "2026-08-02T13:08:42.901063"
+      "updated_at": "2026-08-02T18:04:37.453146"
     },
     "nemoclaw": {
       "topic": "Getting Started with NemoClaw",
@@ -1157,5 +1158,5 @@
       "updated_at": "2026-08-02T10:16:37.478007"
     }
   },
-  "updated_at": "2026-08-02T13:11:47.675995"
+  "updated_at": "2026-08-02T18:04:38.538314"
 }
