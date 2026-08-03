@@ -55,6 +55,7 @@
     "2026-08-02|trends|06",
     "2026-08-03|publish|09",
     "2026-08-03|publish|13",
+    "2026-08-03|publish|18",
     "2026-08-03|trends|06"
   ],
   "required_platforms": [
@@ -480,15 +481,15 @@
     },
     "awesomedesignmd": {
       "topic": "Getting Started with design.md",
-      "title": "Getting Started with design.md",
-      "tutorial_id": "20260803_141954_fddb8d",
+      "title": "Getting started with design.md can be an exciting experience, especially for developers who want to create stunning documentation with ease.",
+      "tutorial_id": "20260803_191033_7267bb",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-awesome-design-md-can-be-an-exciting-venture-especially-for-developers-looking-to-enhance-their-documentation-and-proj"
       },
-      "updated_at": "2026-08-03T14:20:11.053697"
+      "updated_at": "2026-08-03T19:10:47.997567"
     },
     "openclaude": {
       "topic": "Getting Started with openclaude",
@@ -640,15 +641,15 @@
     },
     "opendesign": {
       "topic": "Getting Started with open-design",
-      "title": "Getting started with open-design can be an exciting and creative journey, especially for developers who are looking to build innovative and",
-      "tutorial_id": "20260803_141828_341298",
+      "title": "Getting started with open-design can be an exciting and creative journey, especially for developers looking to explore new possibilities in",
+      "tutorial_id": "20260803_190853_3b2197",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-open-design-can-be-an-exciting-venture-for-developers-as-it-allows-for-the-creation-of-customizable-and-modular-system"
       },
-      "updated_at": "2026-08-03T14:18:44.102114"
+      "updated_at": "2026-08-03T19:09:08.408231"
     },
     "marketingskills": {
       "topic": "Getting Started with marketingskills",
@@ -778,15 +779,15 @@
     },
     "odysseus": {
       "topic": "Getting Started with odysseus",
-      "title": "Getting started with odysseus can be an exciting experience, especially for developers who are interested in building scalable and efficient",
-      "tutorial_id": "20260803_094440_8872fb",
+      "title": "Getting started with Odysseus can be an exciting venture, especially for developers looking to explore the world of stream processing and bi",
+      "tutorial_id": "20260803_190912_31a5ef",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/odysseus-is-an-open-source-distributed-and-highly-scalable-data-integration-framework-that-allows-2b5l"
       },
-      "updated_at": "2026-08-03T09:44:55.601993"
+      "updated_at": "2026-08-03T19:09:27.033647"
     },
     "aiengineeringscratch": {
       "topic": "Getting Started with ai-engineering-from-scratch",
@@ -826,15 +827,15 @@
     },
     "ponytail": {
       "topic": "Getting Started with ponytail",
-      "title": "Ponytail is a lightweight, open-source framework designed to simplify the development of real-time web applications. It provides an efficien",
-      "tutorial_id": "20260803_141809_ac40fc",
+      "title": "Getting started with Ponytail, a simple and efficient HTTP client for Python, can be an exciting experience for developers. Ponytail allows",
+      "tutorial_id": "20260803_190835_846438",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-ponytail-a-lightweight-and-flexible-framework-can-be-an-exciting-experience-5edh"
       },
-      "updated_at": "2026-08-03T14:18:25.023442"
+      "updated_at": "2026-08-03T19:08:49.866860"
     },
     "hyperframes": {
       "topic": "Getting Started with hyperframes",
@@ -934,19 +935,19 @@
     },
     "deepseekreasonix": {
       "topic": "Getting Started with DeepSeek-Reasonix",
-      "title": "Getting Started with DeepSeek-Reasonix",
-      "tutorial_id": "20260803_141911_314a9c",
+      "title": "DeepSeek-Reasonix is a powerful tool designed to simplify the process of building and deploying artificial intelligence (AI) and machine lea",
+      "tutorial_id": "20260803_190952_416958",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-03T14:19:31.883076"
+      "updated_at": "2026-08-03T19:10:11.779551"
     },
     "natureskills": {
       "topic": "Getting Started with nature-skills",
-      "title": "Getting started with nature-skills can be an exciting venture for developers, especially those interested in machine learning and natural la",
-      "tutorial_id": "20260803_141847_f7a020",
+      "title": "Getting started with nature-skills can be an exciting venture for developers looking to explore the intersection of technology and the natur",
+      "tutorial_id": "20260803_190930_26b537",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-03T14:19:07.183925"
+      "updated_at": "2026-08-03T19:09:49.686748"
     },
     "codexplugincc": {
       "topic": "Getting Started with codex-plugin-cc",
@@ -958,15 +959,15 @@
     },
     "codexplusplus": {
       "topic": "Getting Started with CodexPlusPlus",
-      "title": "Getting Started with CodexPlusPlus",
-      "tutorial_id": "20260803_141936_2f209b",
+      "title": "Getting started with CodexPlusPlus can be an exciting experience, especially for developers looking to enhance their coding skills. CodexPlu",
+      "tutorial_id": "20260803_191014_f2eab5",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-codexplusplus-2p1a"
       },
-      "updated_at": "2026-08-03T14:19:51.024051"
+      "updated_at": "2026-08-03T19:10:29.327527"
     },
     "nemoclaw": {
       "topic": "Getting Started with NemoClaw",
@@ -1039,18 +1040,18 @@
     "huashudesign": {
       "topic": "Getting Started with huashu-design",
       "title": "Getting started with huashu-design can be an exciting experience, especially for developers looking to create visually appealing and user-fr",
-      "tutorial_id": "20260803_142101_b8fcac",
+      "tutorial_id": "20260803_191138_e224d9",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-03T14:21:21.049553"
+      "updated_at": "2026-08-03T19:11:58.722546"
     },
     "guizangpptskill": {
       "topic": "Getting Started with guizang-ppt-skill",
-      "title": "Getting started with guizang-ppt-skill can be an exciting journey, especially for developers looking to create engaging presentations with e",
-      "tutorial_id": "20260803_142038_7d20bf",
+      "title": "Getting started with guizang-ppt-skill can be an exciting venture, especially for developers looking to create interactive and engaging Powe",
+      "tutorial_id": "20260803_191115_6d2a48",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-03T14:20:58.318062"
+      "updated_at": "2026-08-03T19:11:34.838681"
     },
     "khazixskills": {
       "topic": "Getting Started with khazix-skills",
@@ -1063,10 +1064,10 @@
     "grokbuild": {
       "topic": "Getting Started with grok-build",
       "title": "Getting started with grok-build can be an exciting experience, especially for developers looking to streamline their build processes. grok-b",
-      "tutorial_id": "20260803_142014_8a96b3",
+      "tutorial_id": "20260803_191052_16ccff",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-03T14:20:35.081063"
+      "updated_at": "2026-08-03T19:11:11.743477"
     },
     "colibri": {
       "topic": "Getting Started with colibri",
@@ -1169,5 +1170,5 @@
       "updated_at": "2026-08-03T09:50:27.821626"
     }
   },
-  "updated_at": "2026-08-03T14:22:59.736673"
+  "updated_at": "2026-08-03T19:11:59.832797"
 }
