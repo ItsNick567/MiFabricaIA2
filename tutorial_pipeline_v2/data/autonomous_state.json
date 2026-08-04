@@ -55,6 +55,7 @@
     "2026-08-03|trends|06",
     "2026-08-04|publish|09",
     "2026-08-04|publish|13",
+    "2026-08-04|publish|18",
     "2026-08-04|trends|06"
   ],
   "required_platforms": [
@@ -480,15 +481,15 @@
     },
     "awesomedesignmd": {
       "topic": "Getting Started with design.md",
-      "title": "Getting started with design.md can be an exciting experience, especially for developers who want to create stunning documentation for their",
-      "tutorial_id": "20260804_144354_e3bebb",
+      "title": "Getting started with design.md can be an exciting experience, especially for developers who want to create stunning documentation with ease.",
+      "tutorial_id": "20260804_181920_f366a2",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-awesome-design-md-can-be-an-exciting-venture-especially-for-developers-looking-to-enhance-their-documentation-and-proj"
       },
-      "updated_at": "2026-08-04T14:44:10.227639"
+      "updated_at": "2026-08-04T18:19:35.130853"
     },
     "openclaude": {
       "topic": "Getting Started with openclaude",
@@ -640,15 +641,15 @@
     },
     "opendesign": {
       "topic": "Getting Started with open-design",
-      "title": "Getting started with open-design can be an exciting and creative journey for developers. Open-design is an approach to designing and develop",
-      "tutorial_id": "20260804_144212_670007",
+      "title": "Getting started with open-design can be an exciting and creative journey, especially for developers who are interested in designing and buil",
+      "tutorial_id": "20260804_181735_fdaf2f",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-open-design-can-be-an-exciting-venture-for-developers-as-it-allows-for-the-creation-of-customizable-and-modular-system"
       },
-      "updated_at": "2026-08-04T14:42:27.223058"
+      "updated_at": "2026-08-04T18:17:50.971161"
     },
     "marketingskills": {
       "topic": "Getting Started with marketingskills",
@@ -778,15 +779,15 @@
     },
     "odysseus": {
       "topic": "Getting Started with odysseus",
-      "title": "Introduction to Odysseus",
-      "tutorial_id": "20260804_144232_37349a",
+      "title": "Getting started with Odysseus can be an exciting experience, especially for developers who are interested in working with big data and strea",
+      "tutorial_id": "20260804_181753_e0dded",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/odysseus-is-an-open-source-distributed-and-highly-scalable-data-integration-framework-that-allows-2b5l"
       },
-      "updated_at": "2026-08-04T14:42:46.759608"
+      "updated_at": "2026-08-04T18:18:09.047092"
     },
     "aiengineeringscratch": {
       "topic": "Getting Started with ai-engineering-from-scratch",
@@ -935,18 +936,18 @@
     "deepseekreasonix": {
       "topic": "Getting Started with DeepSeek-Reasonix",
       "title": "Getting Started with DeepSeek-Reasonix",
-      "tutorial_id": "20260804_144313_6fee4f",
+      "tutorial_id": "20260804_181837_1496cb",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-04T14:43:33.308101"
+      "updated_at": "2026-08-04T18:18:57.414163"
     },
     "natureskills": {
       "topic": "Getting Started with nature-skills",
-      "title": "Getting started with nature-skills can be an exciting venture for developers, as it allows them to tap into the potential of machine learnin",
-      "tutorial_id": "20260804_144250_d33135",
+      "title": "Getting started with nature-skills can be an exciting venture, especially for developers interested in integrating natural language processi",
+      "tutorial_id": "20260804_181812_85d587",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-04T14:43:10.482755"
+      "updated_at": "2026-08-04T18:18:32.571354"
     },
     "codexplugincc": {
       "topic": "Getting Started with codex-plugin-cc",
@@ -959,14 +960,14 @@
     "codexplusplus": {
       "topic": "Getting Started with CodexPlusPlus",
       "title": "Getting Started with CodexPlusPlus",
-      "tutorial_id": "20260804_144336_a5d9b1",
+      "tutorial_id": "20260804_181900_d1945e",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-codexplusplus-2p1a"
       },
-      "updated_at": "2026-08-04T14:43:51.177781"
+      "updated_at": "2026-08-04T18:19:15.688039"
     },
     "nemoclaw": {
       "topic": "Getting Started with NemoClaw",
@@ -1046,11 +1047,11 @@
     },
     "guizangpptskill": {
       "topic": "Getting Started with guizang-ppt-skill",
-      "title": "Getting started with guizang-ppt-skill can be an exciting venture, especially for developers looking to explore the realm of presentation au",
-      "tutorial_id": "20260804_144441_453a3b",
+      "title": "Introduction to guizang-ppt-skill",
+      "tutorial_id": "20260804_182001_9f5b3e",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-04T14:45:01.136882"
+      "updated_at": "2026-08-04T18:20:21.450401"
     },
     "khazixskills": {
       "topic": "Getting Started with khazix-skills",
@@ -1062,11 +1063,11 @@
     },
     "grokbuild": {
       "topic": "Getting Started with grok-build",
-      "title": "Introduction to grok-build",
-      "tutorial_id": "20260804_144413_7d9205",
+      "title": "Getting started with grok-build can be an exciting venture, especially for developers looking to streamline their build processes. grok-buil",
+      "tutorial_id": "20260804_181937_b69445",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-04T14:44:37.462195"
+      "updated_at": "2026-08-04T18:19:57.793293"
     },
     "colibri": {
       "topic": "Getting Started with colibri",
@@ -1177,5 +1178,5 @@
       "updated_at": "2026-08-04T14:48:29.296300"
     }
   },
-  "updated_at": "2026-08-04T14:48:52.198845"
+  "updated_at": "2026-08-04T18:20:23.444453"
 }
