@@ -55,6 +55,7 @@
     "2026-08-06|trends|06",
     "2026-08-07|publish|09",
     "2026-08-07|publish|13",
+    "2026-08-07|publish|18",
     "2026-08-07|trends|06"
   ],
   "required_platforms": [
@@ -640,15 +641,15 @@
     },
     "opendesign": {
       "topic": "Getting Started with open-design",
-      "title": "Getting started with open-design can be an exciting and creative experience, especially for developers who are looking to build innovative a",
-      "tutorial_id": "20260807_135234_4566db",
+      "title": "Getting started with open-design can be an exciting and creative journey, especially for developers who are eager to explore the world of op",
+      "tutorial_id": "20260807_184256_1057c8",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-open-design-can-be-an-exciting-venture-for-developers-as-it-allows-for-the-creation-of-customizable-and-modular-system"
       },
-      "updated_at": "2026-08-07T13:52:49.205542"
+      "updated_at": "2026-08-07T18:43:11.101048"
     },
     "marketingskills": {
       "topic": "Getting Started with marketingskills",
@@ -778,15 +779,15 @@
     },
     "odysseus": {
       "topic": "Getting Started with odysseus",
-      "title": "Getting started with Odysseus can seem daunting, but with the right guidance, you'll be up and running in no time. Odysseus is an open-sourc",
-      "tutorial_id": "20260807_135252_5a1851",
+      "title": "Getting started with Odysseus can be an exciting experience, especially for developers interested in stream processing and big data analytic",
+      "tutorial_id": "20260807_184314_2df68e",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/odysseus-is-an-open-source-distributed-and-highly-scalable-data-integration-framework-that-allows-2b5l"
       },
-      "updated_at": "2026-08-07T13:53:07.431761"
+      "updated_at": "2026-08-07T18:43:29.170816"
     },
     "aiengineeringscratch": {
       "topic": "Getting Started with ai-engineering-from-scratch",
@@ -826,15 +827,15 @@
     },
     "ponytail": {
       "topic": "Getting Started with ponytail",
-      "title": "Getting Started with Ponytail",
-      "tutorial_id": "20260807_135216_dbd781",
+      "title": "Getting started with Ponytail, a lightweight and efficient web framework, can be an exciting experience for developers looking to build fast",
+      "tutorial_id": "20260807_184238_417498",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-ponytail-a-lightweight-and-flexible-framework-can-be-an-exciting-experience-5edh"
       },
-      "updated_at": "2026-08-07T13:52:30.909762"
+      "updated_at": "2026-08-07T18:42:52.831691"
     },
     "hyperframes": {
       "topic": "Getting Started with hyperframes",
@@ -934,19 +935,19 @@
     },
     "deepseekreasonix": {
       "topic": "Getting Started with DeepSeek-Reasonix",
-      "title": "DeepSeek-Reasonix is a powerful tool designed to simplify the process of building and deploying artificial intelligence (AI) and machine lea",
-      "tutorial_id": "20260807_135334_b6e1df",
+      "title": "DeepSeek-Reasonix is a powerful tool designed for developers to build and deploy artificial intelligence (AI) and machine learning (ML) mode",
+      "tutorial_id": "20260807_184356_2b3db1",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-07T13:53:54.506049"
+      "updated_at": "2026-08-07T18:44:15.604111"
     },
     "natureskills": {
       "topic": "Getting Started with nature-skills",
-      "title": "Getting started with nature-skills can be an exciting venture for developers looking to create immersive and interactive experiences. Nature",
-      "tutorial_id": "20260807_135310_231e94",
+      "title": "Getting started with nature-skills can be an exciting venture for developers looking to explore the intersection of technology and the natur",
+      "tutorial_id": "20260807_184333_5f2c6c",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-07T13:53:30.481682"
+      "updated_at": "2026-08-07T18:43:53.172299"
     },
     "codexplugincc": {
       "topic": "Getting Started with codex-plugin-cc",
@@ -959,14 +960,14 @@
     "codexplusplus": {
       "topic": "Getting Started with CodexPlusPlus",
       "title": "Getting Started with CodexPlusPlus",
-      "tutorial_id": "20260807_135357_fdd1fd",
+      "tutorial_id": "20260807_184420_767058",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-codexplusplus-2p1a"
       },
-      "updated_at": "2026-08-07T13:54:12.314366"
+      "updated_at": "2026-08-07T18:44:34.671642"
     },
     "nemoclaw": {
       "topic": "Getting Started with NemoClaw",
@@ -1237,5 +1238,5 @@
       "updated_at": "2026-08-07T09:57:47.516421"
     }
   },
-  "updated_at": "2026-08-07T13:57:05.411008"
+  "updated_at": "2026-08-07T18:44:37.015747"
 }
