@@ -55,6 +55,7 @@
     "2026-08-05|trends|06",
     "2026-08-06|publish|09",
     "2026-08-06|publish|13",
+    "2026-08-06|publish|18",
     "2026-08-06|trends|06"
   ],
   "required_platforms": [
@@ -480,15 +481,15 @@
     },
     "awesomedesignmd": {
       "topic": "Getting Started with design.md",
-      "title": "Getting started with design.md can seem daunting, especially for beginner to intermediate developers. However, with the right guidance, you",
-      "tutorial_id": "20260806_202849_792d9e",
+      "title": "Getting started with `design.md` can be an exciting venture, especially for developers looking to create and manage technical documentation",
+      "tutorial_id": "20260806_233213_d9187d",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-awesome-design-md-can-be-an-exciting-venture-especially-for-developers-looking-to-enhance-their-documentation-and-proj"
       },
-      "updated_at": "2026-08-06T20:29:03.894173"
+      "updated_at": "2026-08-06T23:32:28.780579"
     },
     "openclaude": {
       "topic": "Getting Started with openclaude",
@@ -640,15 +641,15 @@
     },
     "opendesign": {
       "topic": "Getting Started with open-design",
-      "title": "Getting started with open-design can be an exciting venture for developers looking to create innovative and collaborative projects. Open-des",
-      "tutorial_id": "20260806_202708_b20787",
+      "title": "Open-design is an open-source framework that enables developers to create custom, modular, and scalable designs for their applications. With",
+      "tutorial_id": "20260806_233132_020464",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-open-design-can-be-an-exciting-venture-for-developers-as-it-allows-for-the-creation-of-customizable-and-modular-system"
       },
-      "updated_at": "2026-08-06T20:27:23.318708"
+      "updated_at": "2026-08-06T23:31:47.071477"
     },
     "marketingskills": {
       "topic": "Getting Started with marketingskills",
@@ -826,15 +827,15 @@
     },
     "ponytail": {
       "topic": "Getting Started with ponytail",
-      "title": "Getting started with Ponytail can be an exciting venture, especially for developers looking to explore new frameworks and technologies. Pony",
-      "tutorial_id": "20260806_202648_3ae3b1",
+      "title": "Getting started with Ponytail, a lightweight and efficient framework, can be an exciting experience for developers. Ponytail is designed to",
+      "tutorial_id": "20260806_233114_2fc2d5",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-ponytail-a-lightweight-and-flexible-framework-can-be-an-exciting-experience-5edh"
       },
-      "updated_at": "2026-08-06T20:27:03.085469"
+      "updated_at": "2026-08-06T23:31:29.191058"
     },
     "hyperframes": {
       "topic": "Getting Started with hyperframes",
@@ -934,11 +935,11 @@
     },
     "deepseekreasonix": {
       "topic": "Getting Started with DeepSeek-Reasonix",
-      "title": "Getting Started with DeepSeek-Reasonix",
-      "tutorial_id": "20260806_202807_263da0",
+      "title": "DeepSeek-Reasonix is a powerful tool designed to simplify the process of building and deploying artificial intelligence (AI) and machine lea",
+      "tutorial_id": "20260806_233150_fbb797",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-06T20:28:26.898426"
+      "updated_at": "2026-08-06T23:32:09.110755"
     },
     "natureskills": {
       "topic": "Getting Started with nature-skills",
@@ -1006,15 +1007,15 @@
     },
     "obscura": {
       "topic": "Getting Started with obscura",
-      "title": "Getting started with Obscura can be a daunting task, especially for beginner to intermediate developers. Obscura is a powerful tool that pro",
-      "tutorial_id": "20260806_203224_cecb8b",
+      "title": "Obscura is a powerful and flexible framework used for building robust and scalable applications. As a beginner to intermediate developer, ge",
+      "tutorial_id": "20260806_233459_f61b7d",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-obscura-can-be-an-exciting-venture-especially-for-developers-looking-to-4ejh"
       },
-      "updated_at": "2026-08-06T20:32:43.219958"
+      "updated_at": "2026-08-06T23:35:12.980454"
     },
     "librecode": {
       "topic": "Getting Started with LibreCode",
@@ -1038,11 +1039,11 @@
     },
     "huashudesign": {
       "topic": "Getting Started with huashu-design",
-      "title": "Getting started with huashu-design can be an exciting experience, especially for developers who are looking to create visually appealing and",
-      "tutorial_id": "20260806_203015_4c42c2",
+      "title": "Getting started with huashu-design can be an exciting venture for developers looking to create visually stunning and user-friendly applicati",
+      "tutorial_id": "20260806_233312_49f40e",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-06T20:30:35.616694"
+      "updated_at": "2026-08-06T23:33:31.443522"
     },
     "guizangpptskill": {
       "topic": "Getting Started with guizang-ppt-skill",
@@ -1062,43 +1063,43 @@
     },
     "grokbuild": {
       "topic": "Getting Started with grok-build",
-      "title": "Getting started with grok-build can seem overwhelming, especially for beginner to intermediate developers. However, with the right guidance,",
-      "tutorial_id": "20260806_202907_bdf51f",
+      "title": "Getting started with grok-build can be an exciting experience, especially for developers who want to streamline their build processes. grok-",
+      "tutorial_id": "20260806_233232_6f5f94",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-06T20:29:27.074863"
+      "updated_at": "2026-08-06T23:32:51.432308"
     },
     "colibri": {
       "topic": "Getting Started with colibri",
-      "title": "Getting started with Colibri can seem daunting, but with the right guidance, you can quickly become proficient in using this powerful tool.",
-      "tutorial_id": "20260806_202930_b106c9",
+      "title": "Getting started with Colibri can be an exciting experience, especially for developers looking to build scalable and efficient applications.",
+      "tutorial_id": "20260806_233255_4b1a69",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-colibri-can-be-an-exciting-experience-especially-for-developers-looking-to-11hc"
       },
-      "updated_at": "2026-08-06T20:29:44.913885"
+      "updated_at": "2026-08-06T23:33:09.392777"
     },
     "unlimitedocr": {
       "topic": "Getting Started with Unlimited-OCR",
-      "title": "Introduction to Unlimited-OCR",
-      "tutorial_id": "20260806_203038_22236b",
+      "title": "Getting Started with Unlimited-OCR",
+      "tutorial_id": "20260806_233334_692a3b",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-06T20:30:57.888849"
+      "updated_at": "2026-08-06T23:33:53.745779"
     },
     "hallmark": {
       "topic": "Getting Started with hallmark",
-      "title": "Getting started with Hallmark, a popular open-source framework, can be an exciting experience for developers looking to build scalable and e",
-      "tutorial_id": "20260806_203101_55c3df",
+      "title": "Getting started with Hallmark, a popular open-source framework, can be an exciting venture for developers looking to build robust and scalab",
+      "tutorial_id": "20260806_233356_cb9cda",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-hallmark-a-popular-testing-framework-can-seem-daunting-at-first-but-with-2513"
       },
-      "updated_at": "2026-08-06T20:31:15.533845"
+      "updated_at": "2026-08-06T23:34:10.607377"
     },
     "ds4": {
       "topic": "Getting Started with ds4",
@@ -1114,11 +1115,11 @@
     },
     "videouse": {
       "topic": "Getting Started with video-use",
-      "title": "Getting started with video use in development can be a daunting task, especially for beginners. However, with the right guidance, it can be",
-      "tutorial_id": "20260806_203200_4138aa",
+      "title": "Getting started with video use in web development can seem daunting, but with the right tools and knowledge, it can be a straightforward pro",
+      "tutorial_id": "20260806_233437_0c4cf9",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-06T20:32:20.603903"
+      "updated_at": "2026-08-06T23:34:56.547733"
     },
     "opencodereview": {
       "topic": "Getting Started with open-code-review",
@@ -1130,31 +1131,31 @@
     },
     "browserharness": {
       "topic": "Getting Started with browser-harness",
-      "title": "Introduction to browser-harness",
-      "tutorial_id": "20260806_105909_0c1557",
+      "title": "Getting started with browser-harness can be an exciting experience, especially for developers who want to automate browser interactions for",
+      "tutorial_id": "20260806_233619_bd68d6",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-06T10:59:29.537883"
+      "updated_at": "2026-08-06T23:36:38.465609"
     },
     "lingbotmap": {
       "topic": "Getting Started with lingbot-map",
-      "title": "Getting started with lingbot-map can be an exciting experience, especially for developers who are interested in natural language processing",
-      "tutorial_id": "20260803_094948_2922df",
+      "title": "Getting started with lingbot-map can be an exciting venture, especially for developers looking to explore the world of mapping and location-",
+      "tutorial_id": "20260806_233642_544447",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-03T09:50:08.093330"
+      "updated_at": "2026-08-06T23:37:01.294666"
     },
     "freellmapi": {
       "topic": "Getting Started with freellmapi",
-      "title": "Getting started with freeLM API can be an exciting venture for developers looking to integrate language models into their applications. The",
-      "tutorial_id": "20260806_203310_3a0281",
+      "title": "Getting started with `freellmapi` can be an exciting venture for developers looking to integrate mapping functionality into their applicatio",
+      "tutorial_id": "20260806_233515_82be7b",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-freellmapi-can-be-an-exciting-venture-for-developers-looking-to-explore-the-1g6d"
       },
-      "updated_at": "2026-08-06T20:33:24.843850"
+      "updated_at": "2026-08-06T23:35:29.854834"
     },
     "llmwiki": {
       "topic": "Getting Started with llm_wiki",
@@ -1170,32 +1171,60 @@
     },
     "reverseskill": {
       "topic": "Getting Started with reverse-skill",
-      "title": "Getting started with reverse-skill can be an exciting venture for developers looking to expand their skill set and explore new possibilities",
-      "tutorial_id": "20260806_203137_f7f4f6",
+      "title": "Getting started with reverse-skill can be an exciting and challenging experience, especially for beginner to intermediate developers. Revers",
+      "tutorial_id": "20260806_233414_8e9c14",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-06T20:31:57.889173"
+      "updated_at": "2026-08-06T23:34:33.659928"
     },
     "openmythos": {
       "topic": "Getting Started with OpenMythos",
       "title": "OpenMythos is an open-source, object-oriented, and highly customizable framework designed to simplify the development of complex web applica",
-      "tutorial_id": "20260806_105932_a5e24b",
+      "tutorial_id": "20260806_233704_df7ddd",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/openmythos-is-an-open-source-object-oriented-and-highly-customizable-framework-designed-to-5cje"
       },
-      "updated_at": "2026-08-06T10:59:48.507349"
+      "updated_at": "2026-08-06T23:37:18.202963"
     },
     "bookskill": {
       "topic": "Getting Started with book-to-skill",
-      "title": "Getting started with book-to-skill, a revolutionary approach that combines the power of books and skills to create a unique learning experie",
-      "tutorial_id": "20260806_203328_aadc35",
+      "title": "Getting started with book-to-skill can be an exciting venture, especially for developers looking to create interactive and immersive learnin",
+      "tutorial_id": "20260806_233533_e297ff",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-06T20:33:48.160248"
+      "updated_at": "2026-08-06T23:35:52.663486"
+    },
+    "haveadhd": {
+      "topic": "Getting Started with i-have-adhd",
+      "title": "Getting started with i-have-adhd can be an exciting experience, especially for developers who want to create tools and applications to help",
+      "tutorial_id": "20260806_233555_d4f80c",
+      "platforms_success": [],
+      "urls": {},
+      "updated_at": "2026-08-06T23:36:15.551021"
+    },
+    "claudevideo": {
+      "topic": "Getting Started with claude-video",
+      "title": "Getting started with claude-video can be an exciting experience, especially for developers looking to integrate video capabilities into thei",
+      "tutorial_id": "20260806_233721_13ede4",
+      "platforms_success": [],
+      "urls": {},
+      "updated_at": "2026-08-06T23:37:40.924883"
+    },
+    "openwiki": {
+      "topic": "Getting Started with openwiki",
+      "title": "OpenWiki is an open-source wiki software that allows developers to create and manage their own wikis with ease. It provides a flexible and c",
+      "tutorial_id": "20260806_233744_4a56a2",
+      "platforms_success": [
+        "devto"
+      ],
+      "urls": {
+        "devto": "https://dev.to/autonomousworld/openwiki-is-an-open-source-wiki-software-that-allows-developers-to-create-and-manage-their-own-5606"
+      },
+      "updated_at": "2026-08-06T23:38:04.983333"
     }
   },
-  "updated_at": "2026-08-06T20:33:48.161997"
+  "updated_at": "2026-08-06T23:38:04.985824"
 }
