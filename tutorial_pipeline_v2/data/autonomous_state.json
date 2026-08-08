@@ -55,6 +55,7 @@
     "2026-08-07|trends|06",
     "2026-08-08|publish|09",
     "2026-08-08|publish|13",
+    "2026-08-08|publish|18",
     "2026-08-08|trends|06"
   ],
   "required_platforms": [
@@ -640,15 +641,15 @@
     },
     "opendesign": {
       "topic": "Getting Started with open-design",
-      "title": "Getting started with open-design can be an exciting and creative journey for developers. Open-design is an approach to designing and buildin",
-      "tutorial_id": "20260808_133612_cd911e",
+      "title": "Getting started with open-design can be an exciting venture for developers looking to create innovative and collaborative projects. Open-des",
+      "tutorial_id": "20260808_183530_acbc79",
       "platforms_success": [
         "hashnode"
       ],
       "urls": {
         "hashnode": "https://autonomousworld.hashnode.dev/getting-started-with-open-design-can-be-an-exciting-venture-for-developers-as-it-allows-for-the-creation-of-customizable-and-modular-system"
       },
-      "updated_at": "2026-08-08T13:36:27.661027"
+      "updated_at": "2026-08-08T18:35:45.299478"
     },
     "marketingskills": {
       "topic": "Getting Started with marketingskills",
@@ -778,15 +779,15 @@
     },
     "odysseus": {
       "topic": "Getting Started with odysseus",
-      "title": "Getting started with Odysseus can be an exciting experience, especially for developers looking to work with a powerful framework for rapid d",
-      "tutorial_id": "20260808_133632_947de8",
+      "title": "Getting started with Odysseus can be an exciting venture, especially for developers looking to leverage the power of big data and real-time",
+      "tutorial_id": "20260808_183549_f00281",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/odysseus-is-an-open-source-distributed-and-highly-scalable-data-integration-framework-that-allows-2b5l"
       },
-      "updated_at": "2026-08-08T13:36:46.035678"
+      "updated_at": "2026-08-08T18:36:04.506930"
     },
     "aiengineeringscratch": {
       "topic": "Getting Started with ai-engineering-from-scratch",
@@ -826,15 +827,15 @@
     },
     "ponytail": {
       "topic": "Getting Started with ponytail",
-      "title": "Getting Started with Ponytail",
-      "tutorial_id": "20260808_133553_b32b4f",
+      "title": "Ponytail is a lightweight, open-source framework designed to simplify the development of web applications. It provides a robust set of tools",
+      "tutorial_id": "20260808_183509_c801e7",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-ponytail-a-lightweight-and-flexible-framework-can-be-an-exciting-experience-5edh"
       },
-      "updated_at": "2026-08-08T13:36:07.853336"
+      "updated_at": "2026-08-08T18:35:24.671941"
     },
     "hyperframes": {
       "topic": "Getting Started with hyperframes",
@@ -934,19 +935,19 @@
     },
     "deepseekreasonix": {
       "topic": "Getting Started with DeepSeek-Reasonix",
-      "title": "DeepSeek-Reasonix is a powerful tool designed to help developers build intelligent systems that can reason and learn from data. It provides",
-      "tutorial_id": "20260808_133712_54c3ca",
+      "title": "DeepSeek-Reasonix is a powerful tool designed for developers to build and deploy artificial intelligence (AI) and machine learning (ML) mode",
+      "tutorial_id": "20260808_183631_aef636",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-08T13:37:31.094003"
+      "updated_at": "2026-08-08T18:36:51.706132"
     },
     "natureskills": {
       "topic": "Getting Started with nature-skills",
-      "title": "Getting started with nature-skills can be an exciting venture for developers, as it offers a wide range of possibilities for creating innova",
-      "tutorial_id": "20260808_133649_2e50aa",
+      "title": "Getting started with nature-skills can be an exciting venture for developers looking to explore the intersection of technology and the natur",
+      "tutorial_id": "20260808_183608_0d1ca7",
       "platforms_success": [],
       "urls": {},
-      "updated_at": "2026-08-08T13:37:08.439092"
+      "updated_at": "2026-08-08T18:36:28.971414"
     },
     "codexplugincc": {
       "topic": "Getting Started with codex-plugin-cc",
@@ -958,15 +959,15 @@
     },
     "codexplusplus": {
       "topic": "Getting Started with CodexPlusPlus",
-      "title": "Introduction to CodexPlusPlus",
-      "tutorial_id": "20260808_133735_f88c31",
+      "title": "Getting Started with CodexPlusPlus",
+      "tutorial_id": "20260808_183655_da475d",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-codexplusplus-2p1a"
       },
-      "updated_at": "2026-08-08T13:37:49.156694"
+      "updated_at": "2026-08-08T18:37:10.318133"
     },
     "nemoclaw": {
       "topic": "Getting Started with NemoClaw",
@@ -1070,15 +1071,15 @@
     },
     "colibri": {
       "topic": "Getting Started with colibri",
-      "title": "Getting started with colibri can be an exciting experience, especially for developers looking to build scalable and efficient applications.",
-      "tutorial_id": "20260808_133846_8783ef",
+      "title": "Getting started with Colibri can be an exciting experience, especially for developers looking to build scalable and efficient applications.",
+      "tutorial_id": "20260808_183713_7e359c",
       "platforms_success": [
         "devto"
       ],
       "urls": {
         "devto": "https://dev.to/autonomousworld/getting-started-with-colibri-can-be-an-exciting-experience-especially-for-developers-looking-to-11hc"
       },
-      "updated_at": "2026-08-08T13:39:00.376629"
+      "updated_at": "2026-08-08T18:37:28.536090"
     },
     "unlimitedocr": {
       "topic": "Getting Started with Unlimited-OCR",
@@ -1237,5 +1238,5 @@
       "updated_at": "2026-08-07T09:57:47.516421"
     }
   },
-  "updated_at": "2026-08-08T13:44:06.455117"
+  "updated_at": "2026-08-08T18:37:30.089912"
 }
