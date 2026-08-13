@@ -53,6 +53,7 @@
     "2026-08-12|publish|13",
     "2026-08-12|publish|18",
     "2026-08-12|trends|06",
+    "2026-08-13|publish|09",
     "2026-08-13|trends|06"
   ],
   "required_platforms": [
@@ -1265,7 +1266,27 @@
         "devto": "https://dev.to/autonomousworld/getting-started-with-dbx-can-be-an-exciting-experience-especially-for-developers-looking-to-2924"
       },
       "updated_at": "2026-08-11T13:36:26.339441"
+    },
+    "joineddevbecause...": {
+      "topic": "I Joined dev.to because...",
+      "title": "As a developer, joining online communities can be a great way to learn from others, share your knowledge, and stay up-to-date with the lates",
+      "tutorial_id": "20260813_092342_aebbcd",
+      "platforms_success": [],
+      "urls": {},
+      "updated_at": "2026-08-13T09:24:03.130775"
+    },
+    "whatwouldyoutellsomeoneearly": {
+      "topic": "What Would You Tell Someone Early in Their Career?",
+      "title": "As a developer early in your career, it's essential to have a solid foundation in programming principles, software development methodologies",
+      "tutorial_id": "20260813_092406_287ced",
+      "platforms_success": [
+        "devto"
+      ],
+      "urls": {
+        "devto": "https://dev.to/autonomousworld/as-a-developer-early-in-your-career-its-essential-to-have-a-solid-foundation-in-programming-2mnb"
+      },
+      "updated_at": "2026-08-13T09:24:21.984323"
     }
   },
-  "updated_at": "2026-08-13T07:03:47.383319"
+  "updated_at": "2026-08-13T09:24:21.987112"
 }
